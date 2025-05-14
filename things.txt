@@ -1,0 +1,9 @@
+massimo dutti 
+https://www.massimodutti.com/itxrest/2/catalog/store/34009450/30359536/category?languageId=-5&appId=1
+https://www.massimodutti.com/3/info/sitemaps/sitemap-index-home-categories-md.xml
+
+
+mango
+https://online-orchestrator.mango.com/v4/products?countryIso=ES&productId=87007889&languageIso=es&channelId=shop
+https://online-orchestrator.mango.com/v4/products/collection/family/products?collection=pv2025&family=131
+https://shop.mango.com/sitemap.xml

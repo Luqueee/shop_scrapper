@@ -11,19 +11,7 @@ import { Hm } from "./src/shops/hm/hm";
 import { JackJones } from "./src/shops/jackjones/jackjones";
 import { normalizeAllProducts } from "./src/normalize";
 
-export interface Product {
-    id: string;
-    name: string;
-    price: number;
-    product_link: string;
-    brand: string;
-    category: string;
-    subcategory: string;
-    gender: string;
-    image: string;
-    images?: string[];
-    shop: string;
-}
+
 
 
 
@@ -31,11 +19,11 @@ const MONGO_URI = "mongodb+srv://luqueee2007:FLbY1QfvH7aaz5sO@cluster0.2dk8kke.m
 
 async function main() {
 
-    await Bershka()
+    // await Bershka()
     // await PullAndBear()
     // await Stradivarius()
     // await Zara()
-    // await Mango()
+    await Mango()
     // await Hm()
     // await JackJones()
 

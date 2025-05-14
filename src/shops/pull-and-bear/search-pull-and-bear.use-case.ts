@@ -3,6 +3,9 @@ import type { PullAndBearProductsResponse } from "./types/pull-and-bear-products
 import type { SearchProductsResponse } from "../shops";
 import type { PullAndBearCategory } from "./types/pull-and-bear-category";
 import fs from "node:fs"
+
+export const BASE_URL_CATEGORIES = "https://www.pullandbear.com/itxrest/2/catalog/store/24009509/20309449/category?languageId=-5&typeCatalog=1&appId=1"
+
 export const BASE_URL_SEARCH =
 	"https://www.pullandbear.com/itxrest/1/search/store/24009400/query?scope=mobile&locale=es&catalogue=20309449&warehouse=22109411&offset=0&limit=200&origin=default&returnableFields=internal_id%2Cname%2CproductId&session=.1744236000000&deviceOS=Windows&deviceType=mobile&user=";
 export const BASE_URL_PRODUCTS =

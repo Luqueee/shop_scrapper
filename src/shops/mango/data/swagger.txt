@@ -1,0 +1,1595 @@
+---
+openapi: 3.1.0
+components:
+  schemas:
+    Care:
+      type: object
+      description: Care details of a color related to its recyclability
+      properties:
+        releasesMicrofibers:
+          type:
+          - boolean
+          - "null"
+          examples:
+          - true
+          description: Garment releases microfibers during care
+    Color:
+      type: object
+      description: Product color
+      properties:
+        id:
+          type: string
+          examples:
+          - "92"
+          description: Color id
+        label:
+          type: string
+          examples:
+          - Gris
+          description: Color name
+        bulletImg:
+          type: string
+          examples:
+          - https://st.mngbcn.com/rcs/pics/static/T5/colv3/57003806_TO_C.png?ts=1688664793484
+          description: Color bullet image url
+        sizes:
+          type: array
+          items:
+            $ref: "#/components/schemas/Size"
+          description: Sizes available in color
+        looks:
+          type: object
+          examples:
+          - "00":
+              images:
+              - img: https://st.mngbcn.com/rcs/pics/static/T1/fotos/S/17015531_92_B.jpg?ts=1626969927247
+                type: B
+              - img: https://st.mngbcn.com/rcs/pics/static/T1/fotos/S/17015531_92_D1.jpg?ts=1661184495452
+                type: D1
+          additionalProperties:
+            $ref: "#/components/schemas/Look"
+          description: Image looks available in color by look id
+        videos:
+          type: array
+          examples:
+          - "[ https://st.mngbcn.com/rcs/pics/static/T1/videos/S6/17015531_92.mp4?ts=1626969927247\
+            \ ]"
+          items:
+            type: string
+          description: Url of videos available in color
+    Color1:
+      type: object
+      description: Product color
+      properties:
+        id:
+          type: string
+          examples:
+          - "92"
+          description: Color id
+        label:
+          type: string
+          examples:
+          - Gris
+          description: Color name
+        bulletImg:
+          type: string
+          examples:
+          - /assets/rcs/pics/static/T5/colv3/57003806_TO_C.png?ts=1688664793484
+          description: Color bullet image url path
+        sizes:
+          type: array
+          items:
+            $ref: "#/components/schemas/Size1"
+          description: Sizes available in color
+        looks:
+          type: object
+          examples:
+          - "00":
+              images:
+                B:
+                  img: /assets/rcs/pics/static/T4/fotos/S/47003260_99_B.jpg?ts=1666774212599
+                  alt: Jersey punto cuello redondo - Artículo sin modelo
+                O1:
+                  img: /assets/rcs/pics/static/T4/fotos/outfit/S/47003260_99-99999999_01.jpg?ts=1668427364817
+                  alt: Jersey punto cuello redondo - Plano general
+                R:
+                  img: /assets/rcs/pics/static/T4/fotos/S/47003260_99_R.jpg?ts=1668427364817
+                  alt: Jersey punto cuello redondo - Reverso del artículo
+                D8:
+                  img: /assets/rcs/pics/static/T4/fotos/S/47003260_99_D8.jpg?ts=1666774212599
+                  alt: Jersey punto cuello redondo - Detalle del artículo 8
+                F:
+                  img: /assets/rcs/pics/static/T4/fotos/S/47003260_99.jpg?ts=1668427364817
+                  alt: Jersey punto cuello redondo - Plano medio
+                D1:
+                  img: /assets/rcs/pics/static/T4/fotos/S/47003260_99_D1.jpg?ts=1668427364817
+                  alt: Jersey punto cuello redondo - Detalle del artículo 1
+                D2:
+                  img: /assets/rcs/pics/static/T4/fotos/S/47003260_99_D2.jpg?ts=1668427364817
+                  alt: Jersey punto cuello redondo - Detalle del artículo 2
+          additionalProperties:
+            $ref: "#/components/schemas/Look1"
+          description: Image looks available in color by look id
+        relatedProductId:
+          type:
+          - string
+          - "null"
+          examples:
+          - "12345678"
+          description: "Related model ProductId if this corresponds to a related model,\
+            \ null otherwise"
+        relatedProductUrl:
+          type:
+          - string
+          - "null"
+          examples:
+          - /es/hombre/cardigans-y-jerseis-jerseis/jersey-lana-cuello-perkins-cremallera_67010648.html
+          description: "Related model URL if this corresponds to a related model,\
+            \ null otherwise"
+        customizable:
+          type: boolean
+          description: True if the current color is customizable
+        disclaimer:
+          type:
+          - string
+          - "null"
+          examples:
+          - BUY_UP
+          description: Type of disclaimer to be displayed to warn the customer of
+            any exceptional detail of the product
+    ColorsPrice:
+      type: object
+      description: Product colors with prices info
+      properties:
+        colors:
+          type: object
+          additionalProperties:
+            $ref: "#/components/schemas/ProductPrice"
+        expires:
+          $ref: "#/components/schemas/ZonedDateTime"
+    ColorsStock:
+      type: object
+      description: Product colors with stock info
+      properties:
+        colors:
+          type: object
+          examples:
+          - TO:
+              "32":
+                available: true
+              "34":
+                available: true
+                lastUnits: true
+              "36":
+                available: false
+          additionalProperties:
+            $ref: "#/components/schemas/SizesStock"
+          description: Sizes by color
+    Description:
+      type: object
+      description: "Description of the product divided in bullets, capsules and measures"
+      properties:
+        bullets:
+          type: array
+          items:
+            type: string
+          description: Bullets
+        capsules:
+          type: array
+          items:
+            type: string
+          description: Capsules
+        measures:
+          type: array
+          items:
+            type: string
+          description: Measures
+    ErrorResponse:
+      type: object
+      properties:
+        error:
+          type: string
+    Family:
+      type: object
+      description: Product online family
+      properties:
+        id:
+          type: string
+          examples:
+          - "254"
+          description: Online family id
+        label:
+          type: string
+          examples:
+          - Camisetas
+          description: Online family description
+        labelEn:
+          type: string
+          examples:
+          - T-Shirts
+          description: Online english family description
+        isMainFamily:
+          type: boolean
+          examples:
+          - true
+          description: Is main family
+        hasSizeGuide:
+          type: boolean
+          examples:
+          - true
+          description: Has size guide
+        erpId:
+          type: string
+          examples:
+          - "476"
+          description: ERP family ID
+        originalCobolId:
+          type: string
+          examples:
+          - "476"
+          description: Original cobol family ID
+    Filter:
+      type: object
+      description: Product Filters
+      properties:
+        filters:
+          type: array
+          items:
+            $ref: "#/components/schemas/Filterable"
+        items:
+          type: object
+          additionalProperties:
+            $ref: "#/components/schemas/ItemFilter"
+    Filterable:
+      type: object
+      properties:
+        order:
+          type: integer
+          format: int32
+    Image:
+      type: object
+      description: Product color image
+      properties:
+        img:
+          type: string
+          description: Image url
+        type:
+          type: string
+          description: Image type
+    Image1:
+      type: object
+      description: Product color image
+      properties:
+        img:
+          type: string
+          description: Image url path
+        alt:
+          type: string
+          description: Image alt description
+    ItemFilter:
+      type: object
+      properties:
+        productId:
+          type: string
+        colorGroup:
+          type: string
+        sizes:
+          type: array
+          items:
+            type: string
+        price:
+          type: number
+        onSale:
+          type: boolean
+    Label:
+      type: object
+      description: Labels available in product
+      properties:
+        id:
+          type: string
+          examples:
+          - exclusivo_online
+          description: Label id
+        name:
+          type: string
+          examples:
+          - Exclusivo online
+          description: Label name
+        order:
+          type: integer
+          format: int32
+          examples:
+          - 13
+          description: Label order
+    Legal:
+      type: object
+      description: Legal details of the product
+      properties:
+        conformityCertificate:
+          type:
+          - boolean
+          - "null"
+          examples:
+          - true
+          description: Product has conformity certificate
+    Look:
+      type: object
+      description: Color images look
+      properties:
+        images:
+          type: array
+          items:
+            $ref: "#/components/schemas/Image"
+          description: List of images available in look
+    Look1:
+      type: object
+      description: Color images look
+      properties:
+        images:
+          type: object
+          additionalProperties:
+            $ref: "#/components/schemas/Image1"
+          description: List of images available in look
+        video:
+          $ref: "#/components/schemas/VideoResponse"
+          type: object
+          description: Video available in look
+    OnlineProduct:
+      type: object
+      description: Online product info
+      properties:
+        name:
+          type: string
+          examples:
+          - Camiseta algodón estampada
+        nameEn:
+          type: string
+          examples:
+          - Cotton Shirt
+        model:
+          type: string
+          examples:
+          - LATITUDE
+        genderId:
+          type: string
+          examples:
+          - O
+        seller:
+          type: string
+          examples:
+          - mango
+        reference:
+          type: string
+          examples:
+          - 47096706-LATITUDE-LO
+        families:
+          type: array
+          items:
+            $ref: "#/components/schemas/Family"
+        colors:
+          type: array
+          items:
+            $ref: "#/components/schemas/Color"
+        relatedModels:
+          type: object
+          examples:
+          - color:
+              id: "8391"
+              colors:
+                "57003804":
+                - TN
+                "57003807":
+                - TM
+                "57003805":
+                - "05"
+          additionalProperties:
+            $ref: "#/components/schemas/RelatedModel"
+        labels:
+          type: array
+          items:
+            $ref: "#/components/schemas/Label"
+    OnlineProduct1:
+      type: object
+      description: Online product info
+      properties:
+        name:
+          type: string
+          examples:
+          - Camiseta algodón estampada
+        nameEn:
+          type: string
+          examples:
+          - Cotton Shirt
+        model:
+          type: string
+          examples:
+          - LATITUDE
+        genderId:
+          type: string
+          examples:
+          - O
+        brandId:
+          type: string
+          examples:
+          - he
+        collection:
+          type: string
+          examples:
+          - PV2025
+        type:
+          type: string
+          examples:
+          - ZA
+        seller:
+          type: string
+          examples:
+          - mango
+        reference:
+          type: string
+          examples:
+          - "47096706"
+        dangerousMatterCode:
+          type: string
+          examples:
+          - UN1266
+        url:
+          type: string
+          examples:
+          - /es/nino/camisetas-manga-corta/camiseta-algodon-estampada_47096706.html
+          description: Canonical url to product
+        assetsDomain:
+          type: string
+          examples:
+          - https://shop.mango.com
+          description: Base URL for media content
+        families:
+          type: array
+          items:
+            $ref: "#/components/schemas/Family"
+        colors:
+          type: array
+          items:
+            $ref: "#/components/schemas/Color1"
+        tags:
+          type: array
+          items:
+            type: string
+          description: Tags as String list. Ordered ASC by internal order field (Not
+            supplied)
+    OriginCountries:
+      type: object
+      description: Traceability information indicating the countries involved in the
+        production of the product
+      properties:
+        manufacturing:
+          type: string
+          examples:
+          - Portugal
+          description: Manufacturing country
+        weaving:
+          type:
+          - string
+          - "null"
+          examples:
+          - China
+          description: Weaving country
+        dyeingAndPrinting:
+          type:
+          - string
+          - "null"
+          examples:
+          - China
+          description: Dyeing and Printing country
+        sewing:
+          type:
+          - string
+          - "null"
+          examples:
+          - Vietnam
+          description: Sewing country
+        assembly:
+          type:
+          - string
+          - "null"
+          examples:
+          - China
+          description: Assembly country
+        finish:
+          type:
+          - string
+          - "null"
+          examples:
+          - Spain
+          description: Finish country
+    ProductListStock:
+      type: object
+      description: Product list stock
+      properties:
+        stocks:
+          type: array
+          items:
+            $ref: "#/components/schemas/ProductStock"
+    ProductLowestPrices:
+      type: object
+      properties:
+        promo:
+          type: number
+        sale:
+          type: number
+    ProductPreviousPrices:
+      type: object
+      properties:
+        originalShop:
+          type: number
+        originalOutlet:
+          type: number
+    ProductPrice:
+      type: object
+      properties:
+        price:
+          type: number
+        previousPrices:
+          $ref: "#/components/schemas/ProductPreviousPrices"
+        discountRate:
+          type: number
+          format: double
+        lowestPrices:
+          $ref: "#/components/schemas/ProductLowestPrices"
+        starPrice:
+          type: boolean
+        type:
+          type: string
+        promotionName:
+          type: string
+    ProductStock:
+      type: object
+      description: Stock by product
+      properties:
+        productId:
+          type: string
+          description: Product id
+        colors:
+          type: object
+          additionalProperties:
+            $ref: "#/components/schemas/SizesStock"
+          description: Sizes stock by color
+    ProductTag:
+      type: object
+      description: Tag information of a product
+      properties:
+        colors:
+          type: object
+          additionalProperties:
+            $ref: "#/components/schemas/TagInfo"
+          description: Tag information by colors
+    Recyclability:
+      type: object
+      description: Recyclable details of a color
+      properties:
+        recyclableMaterials:
+          type:
+          - number
+          - "null"
+          format: double
+          examples:
+          - 0.05
+          description: Percentage number of recyclable materials in the product. In
+            decimal base
+    ReferenceFamily:
+      type: object
+      description: "Reference with family, subfmaily and multifamily info"
+      properties:
+        reference:
+          type: string
+          examples:
+          - "47023258"
+        collection:
+          type: string
+          examples:
+          - PV2023
+        line:
+          type: string
+          examples:
+          - D
+        cobol:
+          type: string
+          examples:
+          - "67"
+        online:
+          type: string
+          examples:
+          - "561"
+        multiOnlines:
+          type: array
+          examples:
+          - []
+          items:
+            type: string
+        subProperties:
+          type: array
+          examples:
+          - "[\"ABRIGOS_BABYE\",\"ABRIGOS_BABYE\""
+          items:
+            type: string
+        subValues:
+          type: array
+          examples:
+          - - Abrigos
+            - Chaquetas
+          items:
+            type: string
+    ReferencesFamilies:
+      type: object
+      description: "References with family, subfmaily and multifamily info"
+      properties:
+        referenceWithFamilies:
+          type: array
+          items:
+            $ref: "#/components/schemas/ReferenceFamily"
+    RelatedModel:
+      type: object
+      description: Related models of the current one
+      properties:
+        id:
+          type: string
+          description: size / color
+        colors:
+          type: object
+          additionalProperties:
+            type: array
+            uniqueItems: true
+            items:
+              type: string
+          description: Set of color id by product id
+    Size:
+      type: object
+      description: Product color size
+      properties:
+        id:
+          type: string
+          examples:
+          - "10"
+          description: Size id
+        label:
+          type: string
+          examples:
+          - 9-10
+          description: Size name
+        extraInfo:
+          type: string
+          examples:
+          - 9-10 años (140cm)
+          description: Size extra info
+        plusSize:
+          type: boolean
+          examples:
+          - false
+          description: Is a plus size
+    Size1:
+      type: object
+      description: Product color size
+      properties:
+        id:
+          type: string
+          examples:
+          - "10"
+          description: Size id
+        label:
+          type: string
+          examples:
+          - 9-10
+          description: Size name
+        shortDescription:
+          type: string
+          examples:
+          - 240x220cm
+          description: Short Description
+        extraInfo:
+          type: string
+          examples:
+          - 140cm
+          description: Size extra info
+        plusSize:
+          type: boolean
+          examples:
+          - false
+          description: Is a plus size
+        relatedProductUrl:
+          type:
+          - string
+          - "null"
+          examples:
+          - /es/hombre/cardigans-y-jerseis-jerseis/jersey-lana-cuello-perkins-cremallera_67010648.html
+          description: "Related model URL if this corresponds to a related model,\
+            \ null otherwise"
+        relatedProductId:
+          type:
+          - string
+          - "null"
+          examples:
+          - "12345678"
+          description: "Related model ProductId if this corresponds to a related model,\
+            \ null otherwise"
+    SizesStock:
+      type: object
+      description: Product color sizes
+      properties:
+        sizes:
+          type: object
+          additionalProperties:
+            $ref: "#/components/schemas/StockDetails"
+          description: Stock details by size
+    StockDetails:
+      type: object
+      description: Size stock details
+      properties:
+        available:
+          type: boolean
+          description: Is size available?
+        lastUnits:
+          type: boolean
+          description: Is size stock close to 0?
+        blocked:
+          type: boolean
+          description: Is size stock blocked?
+        warehouses:
+          type: array
+          items:
+            type: string
+          description: Warehouse with stock
+    TagInfo:
+      type: object
+      description: Tag information of a color
+      properties:
+        description:
+          $ref: "#/components/schemas/Description"
+          type: object
+          description: Description
+        compositions:
+          type: array
+          items:
+            type: string
+          description: Composition
+        washingRules:
+          type: array
+          items:
+            $ref: "#/components/schemas/WashingRule"
+          description: Washing rules
+        recyclability:
+          type: object
+          description: Details of product recyclability and materials
+          anyOf:
+          - $ref: "#/components/schemas/Recyclability"
+          - type: "null"
+        originCountries:
+          $ref: "#/components/schemas/OriginCountries"
+          type: object
+          description: Origin Countries
+        care:
+          type: object
+          description: Details of garment care
+          anyOf:
+          - $ref: "#/components/schemas/Care"
+          - type: "null"
+        technologies:
+          type: array
+          items:
+            $ref: "#/components/schemas/Technology"
+          description: Technical qualities of the product
+        legal:
+          type: object
+          description: Legal details of the product
+          anyOf:
+          - $ref: "#/components/schemas/Legal"
+          - type: "null"
+    Technology:
+      type: object
+      description: Product technical quality
+      properties:
+        id:
+          type: string
+          examples:
+          - stretch
+          description: Identifier of the technical quality
+        name:
+          type: string
+          examples:
+          - Stretch
+          description: Name
+        description:
+          type: string
+          examples:
+          - Stretch fabric. Offers extra comfort for everyday wear.
+          description: Description
+    VideoResponse:
+      type: object
+      properties:
+        src:
+          type: string
+    WashingRule:
+      type: object
+      properties:
+        id:
+          type: string
+          description: Id
+        description:
+          type: string
+          description: Description
+    ZonedDateTime:
+      type: string
+      format: date-time
+      examples:
+      - 2022-03-10T12:15:50-04:00
+paths:
+  /v1/products/{productId}/tags:
+    get:
+      deprecated: true
+      parameters:
+      - description: Product id
+        name: productId
+        in: path
+        required: true
+        schema:
+          type: string
+          pattern: \S
+      - description: Channel id (SHOP/OUTLET)
+        name: channelId
+        in: query
+        schema:
+          type: string
+          pattern: \S
+        required: true
+      - description: Uppercase country iso
+        name: countryIso
+        in: query
+        schema:
+          type: string
+          pattern: \S
+        required: true
+      - description: Lowercase language iso
+        name: language
+        in: query
+        schema:
+          type: string
+          pattern: \S
+        required: true
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ProductTag"
+        "400":
+          description: KO - Bad request
+        "404":
+          description: KO - Product not found
+        "500":
+          description: KO - Internal server error
+        "502":
+          description: KO - Bad gateway
+          content: {}
+        "504":
+          description: KO - Gateway timeout
+          content: {}
+      summary: Online Product Tag
+      tags:
+      - Product Resource
+  /v2/prices/products/raw/{productId}:
+    get:
+      summary: Canonical prices cached raw endpoint
+      description: See https://internal-canonical-products.pro.k8s.mango/q/documentation/#/Prices/get_products__productId__prices
+        for details
+      deprecated: true
+      parameters:
+      - name: productId
+        in: path
+        required: true
+        schema:
+          type: string
+          minLength: 8
+          maxLength: 8
+          pattern: \S
+      - name: channelId
+        in: query
+        schema:
+          type: string
+      - name: countryIso
+        in: query
+        schema:
+          type: string
+          pattern: \S
+        required: true
+      responses:
+        "200":
+          description: OK
+        "500":
+          description: KO - Internal server error
+        "502":
+          description: KO - Bad gateway
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "504":
+          description: KO - Gateway timeout
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+      tags:
+      - Price Resource
+  /v2/prices/products/{productId}:
+    get:
+      deprecated: true
+      parameters:
+      - description: Product id
+        name: productId
+        in: path
+        required: true
+        schema:
+          type: string
+          minLength: 8
+          maxLength: 8
+          pattern: \S
+      - description: Channel id (SHOP/OUTLET)
+        name: channelId
+        in: query
+        schema:
+          type: string
+        required: true
+      - description: Uppercase country iso
+        name: countryIso
+        in: query
+        schema:
+          type: string
+          pattern: \S
+        required: true
+      responses:
+        "200":
+          description: OK - The expected schema is a map entry of the ColorPrices
+            schema
+        "400":
+          description: KO - Bad request
+        "404":
+          description: KO - Product not found
+        "500":
+          description: KO - Internal server error
+        "502":
+          description: KO - Bad gateway
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "504":
+          description: KO - Gateway timeout
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+      summary: Obtain Previous Price
+      tags:
+      - Price Resource
+  /v2/products/tags:
+    get:
+      parameters:
+      - description: Lowercase Channel id (shop/outlet)
+        name: channelId
+        in: query
+        schema:
+          type: string
+          pattern: \S
+        required: true
+      - description: Uppercase country iso
+        name: countryIso
+        in: query
+        schema:
+          type: string
+          pattern: \S
+        required: true
+      - description: Lowercase language iso
+        name: languageIso
+        in: query
+        schema:
+          type: string
+          pattern: \S
+        required: true
+      - description: Product id
+        name: productId
+        in: query
+        schema:
+          type: string
+          pattern: \S
+        required: true
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ProductTag"
+        "400":
+          description: KO - Bad request
+        "404":
+          description: KO - Product not found
+        "500":
+          description: KO - Internal server error
+        "502":
+          description: KO - Bad gateway
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "504":
+          description: KO - Gateway timeout
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+      summary: Online Product Tag
+      tags:
+      - Product Resource
+  /v2/products/{productId}:
+    get:
+      deprecated: true
+      parameters:
+      - description: Product id
+        name: productId
+        in: path
+        required: true
+        schema:
+          type: string
+          pattern: \S
+      - description: Channel id (SHOP/OUTLET)
+        name: channelId
+        in: query
+        schema:
+          type: string
+          pattern: \S
+        required: true
+      - description: Uppercase country iso
+        name: countryIso
+        in: query
+        schema:
+          type: string
+          pattern: \S
+        required: true
+      - description: Lowercase language iso
+        name: language
+        in: query
+        schema:
+          type: string
+          pattern: \S
+        required: true
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/OnlineProduct"
+        "400":
+          description: KO - Bad request
+        "404":
+          description: KO - Product not found
+        "500":
+          description: KO - Internal server error
+        "502":
+          description: KO - Bad gateway
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "504":
+          description: KO - Gateway timeout
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+      summary: Online Product
+      tags:
+      - Product Resource
+  /v2/stock/products/{productId}:
+    get:
+      deprecated: true
+      parameters:
+      - description: Product id
+        name: productId
+        in: path
+        required: true
+        schema:
+          type: string
+          minLength: 8
+          maxLength: 8
+          pattern: \S
+      - description: Channel id (SHOP/OUTLET)
+        name: channelId
+        in: query
+        schema:
+          type: string
+        required: true
+      - description: Uppercase country iso
+        name: countryIso
+        in: query
+        schema:
+          type: string
+          pattern: \S
+        required: true
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ColorsStock"
+        "400":
+          description: KO - Bad request
+        "404":
+          description: KO - Product not found
+        "500":
+          description: KO - Internal server error
+        "502":
+          description: KO - Bad gateway
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "504":
+          description: KO - Gateway timeout
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+      summary: Available
+      tags:
+      - Stock Resource
+  /v3/prices/products:
+    get:
+      parameters:
+      - description: Lowercase Channel id (shop/outlet)
+        name: channelId
+        in: query
+        schema:
+          type: string
+        required: true
+      - description: Uppercase country iso
+        name: countryIso
+        in: query
+        schema:
+          type: string
+          pattern: \S
+        required: true
+      - description: Product id
+        name: productId
+        in: query
+        schema:
+          type: string
+          minLength: 8
+          maxLength: 8
+          pattern: \S
+        required: true
+      responses:
+        "200":
+          description: OK - The expected schema is a map entry of the ColorPrices
+            schema
+        "400":
+          description: KO - Bad request
+        "404":
+          description: KO - Product not found
+        "500":
+          description: KO - Internal server error
+        "502":
+          description: KO - Bad gateway
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "504":
+          description: KO - Gateway timeout
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+      summary: Obtain Previous Price
+      tags:
+      - Price Resource
+  /v3/products/collection/{collection}/family/{family}/products:
+    get:
+      deprecated: true
+      parameters:
+      - description: Collection
+        name: collection
+        in: path
+        required: true
+        schema:
+          type: string
+          minLength: 6
+          maxLength: 6
+          pattern: \S
+      - description: Family
+        name: family
+        in: path
+        required: true
+        schema:
+          type: string
+          pattern: \S
+      - description: Subfamily
+        name: subfamily
+        in: query
+        schema:
+          type: string
+          default: ""
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ReferencesFamilies"
+        "400":
+          description: KO - Bad request
+        "404":
+          description: KO - Products not found
+        "500":
+          description: KO - Internal server error
+        "502":
+          description: KO - Bad gateway
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "504":
+          description: KO - Gateway timeout
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+      summary: Online Product Families Info By Filters
+      tags:
+      - Product Resource
+  /v3/products/filters:
+    post:
+      deprecated: true
+      parameters:
+      - description: Channel id (SHOP/OUTLET)
+        name: channelId
+        in: query
+        schema:
+          type: string
+      - description: Uppercase country iso
+        name: countryIso
+        in: query
+        schema:
+          type: string
+          pattern: \S
+        required: true
+      - description: Lowercase language iso
+        name: language
+        in: query
+        schema:
+          type: string
+          pattern: \S
+        required: true
+      requestBody:
+        content:
+          text/plain:
+            schema:
+              type: string
+        required: true
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Filter"
+        "400":
+          description: KO - Bad request
+        "404":
+          description: KO - Products Filters not found
+        "500":
+          description: KO - Internal server error
+        "502":
+          description: KO - Bad gateway
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "504":
+          description: KO - Gateway timeout
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+      summary: Get Products Filters
+      tags:
+      - Product Resource
+  /v3/products/{productId}:
+    get:
+      deprecated: true
+      parameters:
+      - description: Product id
+        name: productId
+        in: path
+        required: true
+        schema:
+          type: string
+          pattern: \S
+      - description: Channel id (SHOP/OUTLET)
+        name: channelId
+        in: query
+        schema:
+          type: string
+          pattern: \S
+        required: true
+      - description: Uppercase country iso
+        name: countryIso
+        in: query
+        schema:
+          type: string
+          pattern: \S
+        required: true
+      - description: Lowercase language iso
+        name: language
+        in: query
+        schema:
+          type: string
+          pattern: \S
+        required: true
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/OnlineProduct1"
+        "400":
+          description: KO - Bad request
+        "404":
+          description: KO - Product not found
+        "500":
+          description: KO - Internal server error
+        "502":
+          description: KO - Bad gateway
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "504":
+          description: KO - Gateway timeout
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+      summary: Online Product
+      tags:
+      - Product Resource
+  /v3/stock/products:
+    get:
+      parameters:
+      - description: Lowercase Channel id (shop/outlet)
+        name: channelId
+        in: query
+        schema:
+          type: string
+        required: true
+      - description: Uppercase country iso
+        name: countryIso
+        in: query
+        schema:
+          type: string
+          pattern: \S
+        required: true
+      - description: Product id
+        name: productId
+        in: query
+        schema:
+          type: string
+          minLength: 8
+          maxLength: 8
+          pattern: \S
+        required: true
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ColorsStock"
+        "400":
+          description: KO - Bad request
+        "404":
+          description: KO - Product not found
+        "500":
+          description: KO - Internal server error
+        "502":
+          description: KO - Bad gateway
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "504":
+          description: KO - Gateway timeout
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+      summary: Available
+      tags:
+      - Stock Resource
+  /v4/products:
+    get:
+      parameters:
+      - description: Lowercase Channel id (shop/outlet)
+        name: channelId
+        in: query
+        schema:
+          type: string
+          pattern: \S
+        required: true
+      - description: Uppercase country iso
+        name: countryIso
+        in: query
+        schema:
+          type: string
+          pattern: \S
+        required: true
+      - description: Lowercase language iso
+        name: languageIso
+        in: query
+        schema:
+          type: string
+          pattern: \S
+        required: true
+      - description: Product id
+        name: productId
+        in: query
+        schema:
+          type: string
+          pattern: \S
+        required: true
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/OnlineProduct1"
+        "400":
+          description: KO - Bad request
+        "404":
+          description: KO - Product not found
+        "500":
+          description: KO - Internal server error
+        "502":
+          description: KO - Bad gateway
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "504":
+          description: KO - Gateway timeout
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+      summary: Online Product
+      tags:
+      - Product Resource
+  /v4/products/collection/family/products:
+    get:
+      parameters:
+      - description: Collection
+        name: collection
+        in: query
+        schema:
+          type: string
+          minLength: 6
+          maxLength: 6
+          pattern: \S
+        required: true
+      - description: Family
+        name: family
+        in: query
+        schema:
+          type: string
+          pattern: \S
+        required: true
+      - description: Subfamily
+        name: subfamily
+        in: query
+        schema:
+          type: string
+          default: ""
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ReferencesFamilies"
+        "400":
+          description: KO - Bad request
+        "404":
+          description: KO - Products not found
+        "500":
+          description: KO - Internal server error
+        "502":
+          description: KO - Bad gateway
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "504":
+          description: KO - Gateway timeout
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+      summary: Online Product Families Info By Filters
+      tags:
+      - Product Resource
+  /v4/products/filters:
+    post:
+      parameters:
+      - description: Lowercase Channel id (shop/outlet)
+        name: channelId
+        in: query
+        schema:
+          type: string
+          pattern: \S
+        required: true
+      - description: Uppercase country iso
+        name: countryIso
+        in: query
+        schema:
+          type: string
+          pattern: \S
+        required: true
+      - description: Lowercase language iso
+        name: languageIso
+        in: query
+        schema:
+          type: string
+          pattern: \S
+        required: true
+      requestBody:
+        content:
+          text/plain:
+            schema:
+              type: string
+        required: true
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Filter"
+        "400":
+          description: KO - Bad request
+        "404":
+          description: KO - Products Filters not found
+        "500":
+          description: KO - Internal server error
+        "502":
+          description: KO - Bad gateway
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+        "504":
+          description: KO - Gateway timeout
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+      summary: Get Products Filters
+      tags:
+      - Product Resource
+info:
+  title: Online Orchestrator API PRO
+  version: 1.0.0
+  contact:
+    name: Kamikazes
+    email: eqp.kamikazes@mango.com

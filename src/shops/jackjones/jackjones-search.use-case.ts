@@ -51,7 +51,7 @@ export class JackJonesSearchUseCase {
 
         let finalResults: Result[] = []
 
-        for (let i = 0; i < 10; i++) {
+        for (let i = 0; i < 2; i++) {
             const { results } = await fetch("https://www.jackjones.com/api/catalog/es-es/search?useNewIndex=true&type=json&redirect=false", {
                 headers,
                 "body": JSON.stringify({
@@ -66,7 +66,8 @@ export class JackJonesSearchUseCase {
             })
                 .then(async (res) => {
                     if (!res.ok) {
-                        throw new Error(`HTTP error! status: ${res.status}`);
+                        // throw new Error(`HTTP error! status: ${res.status}`);
+                        return {results: []}
                     }
                     return await res.json();
                 })
@@ -74,11 +75,11 @@ export class JackJonesSearchUseCase {
                     console.error("Error fetching products data:", err);
                     return { results: [] }; // Return an empty results array on error
                 }) as JackJonesProductsResponse;
-
+            console.log(`Fetched results ${i} ${results.length}`)
             finalResults = finalResults.concat(results);
         }
 
-        // console.log(results);
+        // console.log(finalResults);
 
         // fs.writeFileSync("src/shops/jackjones/data/products.json", JSON.stringify(results, null, 2))
 
@@ -111,6 +112,8 @@ export class JackJonesSearchUseCase {
                 console.error("Error fetching product data:", err);
                 return null
             })
+
+            // console.log(data)
 
             if (!data) {
                 return null

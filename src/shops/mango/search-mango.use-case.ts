@@ -16,7 +16,7 @@ export class SearchMangoUseCase {
 
         url.searchParams.append("productId", productId)
 
-        const { colors } = await fetch(url,).then((res) => res.json()) as MangoProductResponse
+        const { colors,  } = await fetch(url,).then((res) => res.json()) as MangoProductResponse
 
         // console.log("data", data)
 
