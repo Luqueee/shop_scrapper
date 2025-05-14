@@ -1,0 +1,1425 @@
+[
+  {
+    "price": {
+      "percentage": 0,
+      "id": "eur_es",
+      "salesPrice": {
+        "amount": 29.99,
+        "currency": "EUR"
+      },
+      "vatAmount": {
+        "amount": 5.2,
+        "currency": "EUR"
+      },
+      "vatAmount2": {
+        "currency": "XXX"
+      },
+      "vatRate": 21,
+      "vatRate2": 0,
+      "from": "0001-01-01T00:00:00+00:00",
+      "to": "9999-12-31T23:59:00+00:00",
+      "schedule": {
+        "from": "0001-01-01T00:00:00+00:00",
+        "to": "9999-12-31T23:59:59.9999999+00:00"
+      }
+    },
+    "frontImage": "https://images.jackjones.com/12243592/4313146/003/jackjones-jjiglennjjoriginalsq223noos-blue.jpg?v=a772977d0ed58127ab546afa5758ef03",
+    "backImage": "https://images.jackjones.com/12243592/4313146/004/jackjones-jjiglennjjoriginalsq223noos-blue.jpg?v=412b52aabf6b2de9da4d341ae2337ab9",
+    "images": {
+      "urlTemplate": "https://images.jackjones.com/12243592/4313146/{0}/jackjones-jjiglennjjoriginalsq223noos-blue.{1}?v=a772977d0ed58127ab546afa5758ef03",
+      "indexes": [
+        {
+          "index": "003",
+          "format": "jpg"
+        },
+        {
+          "index": "004",
+          "format": "jpg"
+        },
+        {
+          "index": "001",
+          "format": "png"
+        },
+        {
+          "index": "002",
+          "format": "png"
+        },
+        {
+          "index": "005",
+          "format": "jpg"
+        },
+        {
+          "index": "006",
+          "format": "jpg"
+        },
+        {
+          "index": "007",
+          "format": "jpg"
+        },
+        {
+          "index": "008",
+          "format": "jpg"
+        }
+      ]
+    },
+    "subBrand": "JACK&JONES JEANS INTELLIGENCE",
+    "inStock": true,
+    "isNew": false,
+    "badges": [],
+    "calloutAttributes": {
+      "callout": "",
+      "disclaimer": "",
+      "calloutBackgroundColor": "",
+      "calloutColor": "",
+      "hasAccordion": false,
+      "calloutIcon": "",
+      "enableClipboardIcon": false,
+      "clipboardCode": "",
+      "clipboardTitle": "",
+      "hideDiscountPrice": false,
+      "hideDiscountPercentage": false,
+      "discountPriceColor": "",
+      "discountPercentageColor": "",
+      "alternatePromotionName": ""
+    },
+    "callout": "",
+    "disclaimer": "",
+    "brand": "Jack & Jones",
+    "ean": "5715424021658",
+    "colourFamilyName": "Azul",
+    "sizeName": "32",
+    "lengthName": "\"32",
+    "isDigital": false,
+    "rank": 0,
+    "productRelations": [],
+    "id": "12243592_3561",
+    "name": "JJIGLENN JJORIGINAL SQ 223 Vaqueros de corte slim",
+    "url": "/es-es/product/12243592_3561/vaqueros-corte-slim-tiro-bajo",
+    "ediCategory": "Jeans",
+    "ediSubCategory": "Vaqueros",
+    "styleOptionCount": 1,
+    "styleColours": [
+      "#1500ff"
+    ],
+    "hasCompleteTheLook": false,
+    "isProductSet": false,
+    "productSetOptionsCount": 0,
+    "masterColourNames": [
+      "Blue Denim"
+    ],
+    "colourName": "Blue Denim",
+    "hasEcom": true,
+    "hasRetail": false,
+    "isPreorder": false,
+    "comingSoonProduct": false,
+    "onlineFrom": "0001-01-01T00:00:00Z",
+    "isInDeliverySet": false
+  },
+  {
+    "price": {
+      "percentage": 0,
+      "id": "eur_es",
+      "salesPrice": {
+        "amount": 29.99,
+        "currency": "EUR"
+      },
+      "vatAmount": {
+        "amount": 5.2,
+        "currency": "EUR"
+      },
+      "vatAmount2": {
+        "currency": "XXX"
+      },
+      "vatRate": 21,
+      "vatRate2": 0,
+      "from": "0001-01-01T00:00:00+00:00",
+      "to": "9999-12-31T23:59:00+00:00",
+      "schedule": {
+        "from": "0001-01-01T00:00:00+00:00",
+        "to": "9999-12-31T23:59:59.9999999+00:00"
+      }
+    },
+    "frontImage": "https://images.jackjones.com/12243599/4313226/003/jackjones-jjiglennjjoriginalsq349noos-grey.jpg?v=2a30d8f0a67d71d591cacfc088835a57",
+    "backImage": "https://images.jackjones.com/12243599/4313226/004/jackjones-jjiglennjjoriginalsq349noos-grey.jpg?v=a5af8f4dc41730fe98aacc76b9faeb91",
+    "images": {
+      "urlTemplate": "https://images.jackjones.com/12243599/4313226/{0}/jackjones-jjiglennjjoriginalsq349noos-grey.{1}?v=2a30d8f0a67d71d591cacfc088835a57",
+      "indexes": [
+        {
+          "index": "003",
+          "format": "jpg"
+        },
+        {
+          "index": "004",
+          "format": "jpg"
+        },
+        {
+          "index": "001",
+          "format": "png"
+        },
+        {
+          "index": "002",
+          "format": "png"
+        },
+        {
+          "index": "005",
+          "format": "jpg"
+        },
+        {
+          "index": "006",
+          "format": "jpg"
+        },
+        {
+          "index": "007",
+          "format": "jpg"
+        },
+        {
+          "index": "008",
+          "format": "jpg"
+        }
+      ]
+    },
+    "subBrand": "JACK&JONES JEANS INTELLIGENCE",
+    "inStock": true,
+    "isNew": false,
+    "badges": [],
+    "calloutAttributes": {
+      "callout": "",
+      "disclaimer": "",
+      "calloutBackgroundColor": "",
+      "calloutColor": "",
+      "hasAccordion": false,
+      "calloutIcon": "",
+      "enableClipboardIcon": false,
+      "clipboardCode": "",
+      "clipboardTitle": "",
+      "hideDiscountPrice": false,
+      "hideDiscountPercentage": false,
+      "discountPriceColor": "",
+      "discountPercentageColor": "",
+      "alternatePromotionName": ""
+    },
+    "callout": "",
+    "disclaimer": "",
+    "brand": "Jack & Jones",
+    "ean": "5715424032005",
+    "colourFamilyName": "Gris",
+    "sizeName": "32",
+    "lengthName": "\"32",
+    "isDigital": false,
+    "rank": 0,
+    "productRelations": [],
+    "id": "12243599_2103",
+    "name": "JJIGLENN JJORIGINAL SQ 349 Vaqueros de corte slim",
+    "url": "/es-es/product/12243599_2103/vaqueros-corte-slim-tiro-bajo",
+    "ediCategory": "Jeans",
+    "ediSubCategory": "Vaqueros",
+    "styleOptionCount": 1,
+    "styleColours": [
+      "#858585"
+    ],
+    "hasCompleteTheLook": false,
+    "isProductSet": false,
+    "productSetOptionsCount": 0,
+    "masterColourNames": [
+      "Black Denim"
+    ],
+    "colourName": "Black Denim",
+    "hasEcom": true,
+    "hasRetail": false,
+    "isPreorder": false,
+    "comingSoonProduct": false,
+    "onlineFrom": "0001-01-01T00:00:00Z",
+    "isInDeliverySet": false
+  },
+  {
+    "price": {
+      "percentage": 0,
+      "id": "eur_es",
+      "salesPrice": {
+        "amount": 39.99,
+        "currency": "EUR"
+      },
+      "vatAmount": {
+        "amount": 6.94,
+        "currency": "EUR"
+      },
+      "vatAmount2": {
+        "currency": "XXX"
+      },
+      "vatRate": 21,
+      "vatRate2": 0,
+      "from": "0001-01-01T00:00:00+00:00",
+      "to": "9999-12-31T23:59:00+00:00",
+      "schedule": {
+        "from": "0001-01-01T00:00:00+00:00",
+        "to": "9999-12-31T23:59:59.9999999+00:00"
+      }
+    },
+    "frontImage": "https://images.jackjones.com/12237365/4239524/003/jackjones-jjiliamjjoriginalakm773noos-black.jpg?v=398467b0f7092b75d993765552702371",
+    "backImage": "https://images.jackjones.com/12237365/4239524/004/jackjones-jjiliamjjoriginalakm773noos-black.jpg?v=86707521001eb3798d60f83e0d546fee",
+    "images": {
+      "urlTemplate": "https://images.jackjones.com/12237365/4239524/{0}/jackjones-jjiliamjjoriginalakm773noos-black.{1}?v=398467b0f7092b75d993765552702371",
+      "indexes": [
+        {
+          "index": "003",
+          "format": "jpg"
+        },
+        {
+          "index": "004",
+          "format": "jpg"
+        },
+        {
+          "index": "001",
+          "format": "png"
+        },
+        {
+          "index": "002",
+          "format": "png"
+        },
+        {
+          "index": "005",
+          "format": "jpg"
+        },
+        {
+          "index": "006",
+          "format": "jpg"
+        },
+        {
+          "index": "007",
+          "format": "jpg"
+        },
+        {
+          "index": "008",
+          "format": "jpg"
+        }
+      ]
+    },
+    "subBrand": "JACK&JONES JEANS INTELLIGENCE",
+    "inStock": true,
+    "isNew": false,
+    "badges": [],
+    "calloutAttributes": {
+      "callout": "",
+      "disclaimer": "",
+      "calloutBackgroundColor": "",
+      "calloutColor": "",
+      "hasAccordion": false,
+      "calloutIcon": "",
+      "enableClipboardIcon": false,
+      "clipboardCode": "",
+      "clipboardTitle": "",
+      "hideDiscountPrice": false,
+      "hideDiscountPercentage": false,
+      "discountPriceColor": "",
+      "discountPercentageColor": "",
+      "alternatePromotionName": ""
+    },
+    "callout": "",
+    "disclaimer": "",
+    "brand": "Jack & Jones",
+    "ean": "5715416212026",
+    "colourFamilyName": "Negra",
+    "sizeName": "32",
+    "lengthName": "\"32",
+    "isDigital": false,
+    "rank": 0,
+    "productRelations": [],
+    "id": "12237365_2103",
+    "name": "JJILIAM JJORIGINAL MF 773 Vaqueros  de corte skinny",
+    "url": "/es-es/product/12237365_2103/vaqueros-corte-skinny-tiro-bajo",
+    "ediCategory": "Jeans",
+    "ediSubCategory": "Vaqueros",
+    "styleOptionCount": 1,
+    "styleColours": [
+      "#000000"
+    ],
+    "hasCompleteTheLook": false,
+    "isProductSet": false,
+    "productSetOptionsCount": 0,
+    "masterColourNames": [
+      "Black Denim"
+    ],
+    "colourName": "Black Denim",
+    "hasEcom": true,
+    "hasRetail": false,
+    "isPreorder": false,
+    "comingSoonProduct": false,
+    "onlineFrom": "0001-01-01T00:00:00Z",
+    "isInDeliverySet": false
+  },
+  {
+    "price": {
+      "percentage": 0,
+      "id": "eur_es",
+      "salesPrice": {
+        "amount": 39.99,
+        "currency": "EUR"
+      },
+      "vatAmount": {
+        "amount": 6.94,
+        "currency": "EUR"
+      },
+      "vatAmount2": {
+        "currency": "XXX"
+      },
+      "vatRate": 21,
+      "vatRate2": 0,
+      "from": "0001-01-01T00:00:00+00:00",
+      "to": "9999-12-31T23:59:00+00:00",
+      "schedule": {
+        "from": "0001-01-01T00:00:00+00:00",
+        "to": "9999-12-31T23:59:59.9999999+00:00"
+      }
+    },
+    "frontImage": "https://images.jackjones.com/12237359/4239507/003/jackjones-jjiliamjjoriginalakm770noos-blue.jpg?v=56566fe355bf90384c81ca4ae6fd657e",
+    "backImage": "https://images.jackjones.com/12237359/4239507/004/jackjones-jjiliamjjoriginalakm770noos-blue.jpg?v=4de2a952ac784f1797b3132d2d3f5ea5",
+    "images": {
+      "urlTemplate": "https://images.jackjones.com/12237359/4239507/{0}/jackjones-jjiliamjjoriginalakm770noos-blue.{1}?v=56566fe355bf90384c81ca4ae6fd657e",
+      "indexes": [
+        {
+          "index": "003",
+          "format": "jpg"
+        },
+        {
+          "index": "004",
+          "format": "jpg"
+        },
+        {
+          "index": "001",
+          "format": "png"
+        },
+        {
+          "index": "002",
+          "format": "png"
+        },
+        {
+          "index": "005",
+          "format": "jpg"
+        },
+        {
+          "index": "006",
+          "format": "jpg"
+        },
+        {
+          "index": "007",
+          "format": "jpg"
+        },
+        {
+          "index": "008",
+          "format": "jpg"
+        }
+      ]
+    },
+    "subBrand": "JACK&JONES JEANS INTELLIGENCE",
+    "inStock": true,
+    "isNew": false,
+    "badges": [],
+    "calloutAttributes": {
+      "callout": "",
+      "disclaimer": "",
+      "calloutBackgroundColor": "",
+      "calloutColor": "",
+      "hasAccordion": false,
+      "calloutIcon": "",
+      "enableClipboardIcon": false,
+      "clipboardCode": "",
+      "clipboardTitle": "",
+      "hideDiscountPrice": false,
+      "hideDiscountPercentage": false,
+      "discountPriceColor": "",
+      "discountPercentageColor": "",
+      "alternatePromotionName": ""
+    },
+    "callout": "",
+    "disclaimer": "",
+    "brand": "Jack & Jones",
+    "ean": "5715416211630",
+    "colourFamilyName": "Azul",
+    "sizeName": "32",
+    "lengthName": "\"32",
+    "isDigital": false,
+    "rank": 0,
+    "productRelations": [],
+    "id": "12237359_3561",
+    "name": "JJILIAM JJORIGINAL MF 770 Vaqueros  de corte skinny",
+    "url": "/es-es/product/12237359_3561/vaqueros-corte-skinny-tiro-bajo",
+    "ediCategory": "Jeans",
+    "ediSubCategory": "Vaqueros",
+    "styleOptionCount": 1,
+    "styleColours": [
+      "#1500ff"
+    ],
+    "hasCompleteTheLook": false,
+    "isProductSet": false,
+    "productSetOptionsCount": 0,
+    "masterColourNames": [
+      "Blue Denim"
+    ],
+    "colourName": "Blue Denim",
+    "hasEcom": true,
+    "hasRetail": false,
+    "isPreorder": false,
+    "comingSoonProduct": false,
+    "onlineFrom": "0001-01-01T00:00:00Z",
+    "isInDeliverySet": false
+  },
+  {
+    "price": {
+      "percentage": 0,
+      "id": "eur_es",
+      "salesPrice": {
+        "amount": 49.99,
+        "currency": "EUR"
+      },
+      "vatAmount": {
+        "amount": 8.68,
+        "currency": "EUR"
+      },
+      "vatAmount2": {
+        "currency": "XXX"
+      },
+      "vatRate": 21,
+      "vatRate2": 0,
+      "from": "0001-01-01T00:00:00+00:00",
+      "to": "9999-12-31T23:59:00+00:00",
+      "schedule": {
+        "from": "0001-01-01T00:00:00+00:00",
+        "to": "9999-12-31T23:59:59.9999999+00:00"
+      }
+    },
+    "frontImage": "https://images.jackjones.com/12258105/4511689/003/jackjones-jjiclarkjjoriginalam419noos-blue.jpg?v=fde42a6737868bc2a47e80e6f6e9baea",
+    "backImage": "https://images.jackjones.com/12258105/4511689/004/jackjones-jjiclarkjjoriginalam419noos-blue.jpg?v=a4e3421756292b0191764640fc979cec",
+    "images": {
+      "urlTemplate": "https://images.jackjones.com/12258105/4511689/{0}/jackjones-jjiclarkjjoriginalam419noos-blue.{1}?v=fde42a6737868bc2a47e80e6f6e9baea",
+      "indexes": [
+        {
+          "index": "003",
+          "format": "jpg"
+        },
+        {
+          "index": "004",
+          "format": "jpg"
+        },
+        {
+          "index": "001",
+          "format": "png"
+        },
+        {
+          "index": "002",
+          "format": "png"
+        },
+        {
+          "index": "005",
+          "format": "jpg"
+        },
+        {
+          "index": "006",
+          "format": "jpg"
+        },
+        {
+          "index": "007",
+          "format": "jpg"
+        },
+        {
+          "index": "008",
+          "format": "jpg"
+        }
+      ]
+    },
+    "subBrand": "JACK&JONES JEANS INTELLIGENCE",
+    "inStock": true,
+    "isNew": false,
+    "badges": [
+      "organic"
+    ],
+    "calloutAttributes": {
+      "callout": "",
+      "disclaimer": "",
+      "calloutBackgroundColor": "",
+      "calloutColor": "",
+      "hasAccordion": false,
+      "calloutIcon": "",
+      "enableClipboardIcon": false,
+      "clipboardCode": "",
+      "clipboardTitle": "",
+      "hideDiscountPrice": false,
+      "hideDiscountPercentage": false,
+      "discountPriceColor": "",
+      "discountPercentageColor": "",
+      "alternatePromotionName": ""
+    },
+    "callout": "",
+    "disclaimer": "",
+    "brand": "Jack & Jones",
+    "ean": "5715515931194",
+    "colourFamilyName": "Azul",
+    "sizeName": "32",
+    "lengthName": "\"32",
+    "isDigital": false,
+    "rank": 0,
+    "productRelations": [],
+    "id": "12258105_3561",
+    "name": "JJICLARK JJORIGINAL AM 419 Vaqueros Corte regular",
+    "url": "/es-es/product/12258105_3561/vaqueros-corte-regular",
+    "ediCategory": "Jeans",
+    "ediSubCategory": "Vaqueros",
+    "styleOptionCount": 1,
+    "styleColours": [
+      "#1500ff"
+    ],
+    "hasCompleteTheLook": false,
+    "isProductSet": false,
+    "productSetOptionsCount": 0,
+    "masterColourNames": [
+      "Blue Denim"
+    ],
+    "colourName": "Blue Denim",
+    "hasEcom": true,
+    "hasRetail": false,
+    "isPreorder": false,
+    "comingSoonProduct": false,
+    "onlineFrom": "0001-01-01T00:00:00Z",
+    "isInDeliverySet": false
+  },
+  {
+    "price": {
+      "percentage": 0,
+      "id": "eur_es",
+      "salesPrice": {
+        "amount": 59.99,
+        "currency": "EUR"
+      },
+      "vatAmount": {
+        "amount": 10.41,
+        "currency": "EUR"
+      },
+      "vatAmount2": {
+        "currency": "XXX"
+      },
+      "vatRate": 21,
+      "vatRate2": 0,
+      "from": "0001-01-01T00:00:00+00:00",
+      "to": "9999-12-31T23:59:00+00:00",
+      "schedule": {
+        "from": "0001-01-01T00:00:00+00:00",
+        "to": "9999-12-31T23:59:59.9999999+00:00"
+      }
+    },
+    "frontImage": "https://images.jackjones.com/12250486/4401687/003/jackjones-jjiglennjjfox50spscb036noos-blue.jpg?v=f8dba2f98f53d85e9000a394fe6289da",
+    "backImage": "https://images.jackjones.com/12250486/4401687/004/jackjones-jjiglennjjfox50spscb036noos-blue.jpg?v=c3deb3bb42f0ab4a26f6511f9ecc1218",
+    "images": {
+      "urlTemplate": "https://images.jackjones.com/12250486/4401687/{0}/jackjones-jjiglennjjfox50spscb036noos-blue.{1}?v=f8dba2f98f53d85e9000a394fe6289da",
+      "indexes": [
+        {
+          "index": "003",
+          "format": "jpg"
+        },
+        {
+          "index": "004",
+          "format": "jpg"
+        },
+        {
+          "index": "001",
+          "format": "png"
+        },
+        {
+          "index": "002",
+          "format": "png"
+        },
+        {
+          "index": "005",
+          "format": "jpg"
+        },
+        {
+          "index": "006",
+          "format": "jpg"
+        },
+        {
+          "index": "007",
+          "format": "jpg"
+        },
+        {
+          "index": "008",
+          "format": "jpg"
+        }
+      ]
+    },
+    "subBrand": "JACK&JONES JEANS INTELLIGENCE",
+    "inStock": true,
+    "isNew": false,
+    "badges": [
+      "recycled"
+    ],
+    "calloutAttributes": {
+      "callout": "",
+      "disclaimer": "",
+      "calloutBackgroundColor": "",
+      "calloutColor": "",
+      "hasAccordion": false,
+      "calloutIcon": "",
+      "enableClipboardIcon": false,
+      "clipboardCode": "",
+      "clipboardTitle": "",
+      "hideDiscountPrice": false,
+      "hideDiscountPercentage": false,
+      "discountPriceColor": "",
+      "discountPercentageColor": "",
+      "alternatePromotionName": ""
+    },
+    "callout": "",
+    "disclaimer": "",
+    "brand": "Jack & Jones",
+    "ean": "5715501540850",
+    "colourFamilyName": "Azul",
+    "sizeName": "32",
+    "lengthName": "\"32",
+    "isDigital": false,
+    "rank": 0,
+    "productRelations": [],
+    "id": "12250486_3561",
+    "name": "JJIGLENN JJFOX  50SPS CB 036 Vaqueros de corte slim",
+    "url": "/es-es/product/12250486_3561/vaqueros-corte-slim-tiro-bajo",
+    "ediCategory": "Jeans",
+    "ediSubCategory": "Vaqueros",
+    "styleOptionCount": 1,
+    "styleColours": [
+      "#1500ff"
+    ],
+    "hasCompleteTheLook": false,
+    "isProductSet": false,
+    "productSetOptionsCount": 0,
+    "masterColourNames": [
+      "Blue Denim"
+    ],
+    "colourName": "Blue Denim",
+    "hasEcom": true,
+    "hasRetail": false,
+    "isPreorder": false,
+    "comingSoonProduct": false,
+    "onlineFrom": "0001-01-01T00:00:00Z",
+    "isInDeliverySet": false
+  },
+  {
+    "price": {
+      "percentage": 0,
+      "id": "eur_es",
+      "salesPrice": {
+        "amount": 29.99,
+        "currency": "EUR"
+      },
+      "vatAmount": {
+        "amount": 5.2,
+        "currency": "EUR"
+      },
+      "vatAmount2": {
+        "currency": "XXX"
+      },
+      "vatRate": 21,
+      "vatRate2": 0,
+      "from": "0001-01-01T00:00:00+00:00",
+      "to": "9999-12-31T23:59:00+00:00",
+      "schedule": {
+        "from": "0001-01-01T00:00:00+00:00",
+        "to": "9999-12-31T23:59:59.9999999+00:00"
+      }
+    },
+    "frontImage": "https://images.jackjones.com/12259062/4523346/003/jackjones-jjiglennjjoriginalsq430noos-blue.jpg?v=20bb4dc0154d5641315ce1ac5aa17d90",
+    "backImage": "https://images.jackjones.com/12259062/4523346/004/jackjones-jjiglennjjoriginalsq430noos-blue.jpg?v=f46bcd886ad7e57fa6d118c044c7e91e",
+    "images": {
+      "urlTemplate": "https://images.jackjones.com/12259062/4523346/{0}/jackjones-jjiglennjjoriginalsq430noos-blue.{1}?v=20bb4dc0154d5641315ce1ac5aa17d90",
+      "indexes": [
+        {
+          "index": "003",
+          "format": "jpg"
+        },
+        {
+          "index": "004",
+          "format": "jpg"
+        },
+        {
+          "index": "001",
+          "format": "png"
+        },
+        {
+          "index": "002",
+          "format": "png"
+        },
+        {
+          "index": "005",
+          "format": "jpg"
+        },
+        {
+          "index": "006",
+          "format": "jpg"
+        },
+        {
+          "index": "007",
+          "format": "jpg"
+        },
+        {
+          "index": "008",
+          "format": "jpg"
+        }
+      ]
+    },
+    "subBrand": "JACK&JONES JEANS INTELLIGENCE",
+    "inStock": true,
+    "isNew": false,
+    "badges": [],
+    "calloutAttributes": {
+      "callout": "",
+      "disclaimer": "",
+      "calloutBackgroundColor": "",
+      "calloutColor": "",
+      "hasAccordion": false,
+      "calloutIcon": "",
+      "enableClipboardIcon": false,
+      "clipboardCode": "",
+      "clipboardTitle": "",
+      "hideDiscountPrice": false,
+      "hideDiscountPercentage": false,
+      "discountPriceColor": "",
+      "discountPercentageColor": "",
+      "alternatePromotionName": ""
+    },
+    "callout": "",
+    "disclaimer": "",
+    "brand": "Jack & Jones",
+    "ean": "5715671554367",
+    "colourFamilyName": "Azul",
+    "sizeName": "34",
+    "lengthName": "\"32",
+    "isDigital": false,
+    "rank": 0,
+    "productRelations": [],
+    "id": "12259062_3561",
+    "name": "JJIGLENN JJORIGINAL SQ 430 NOOS",
+    "url": "/es-es/product/12259062_3561/vaqueros-corte-slim",
+    "ediCategory": "Jeans",
+    "ediSubCategory": "Vaqueros",
+    "styleOptionCount": 1,
+    "styleColours": [
+      "#1500ff"
+    ],
+    "hasCompleteTheLook": false,
+    "isProductSet": false,
+    "productSetOptionsCount": 0,
+    "masterColourNames": [
+      "Blue Denim"
+    ],
+    "colourName": "Blue Denim",
+    "hasEcom": true,
+    "hasRetail": false,
+    "isPreorder": false,
+    "comingSoonProduct": false,
+    "onlineFrom": "0001-01-01T00:00:00Z",
+    "isInDeliverySet": false
+  },
+  {
+    "price": {
+      "percentage": 0,
+      "id": "eur_es",
+      "salesPrice": {
+        "amount": 79.99,
+        "currency": "EUR"
+      },
+      "vatAmount": {
+        "amount": 13.88,
+        "currency": "EUR"
+      },
+      "vatAmount2": {
+        "currency": "XXX"
+      },
+      "vatRate": 21,
+      "vatRate2": 0,
+      "from": "0001-01-01T00:00:00+00:00",
+      "to": "9999-12-31T23:59:00+00:00",
+      "schedule": {
+        "from": "0001-01-01T00:00:00+00:00",
+        "to": "9999-12-31T23:59:59.9999999+00:00"
+      }
+    },
+    "frontImage": "https://images.jackjones.com/12162430/3177875/003/jackjones-jjiglennjjiconjj55750spsnoos-black.jpg?v=bbe4725d471820d041d6b0750ea18161",
+    "backImage": "https://images.jackjones.com/12162430/3177875/004/jackjones-jjiglennjjiconjj55750spsnoos-black.jpg?v=a91e12001063bde4a8495390e2242019",
+    "images": {
+      "urlTemplate": "https://images.jackjones.com/12162430/3177875/{0}/jackjones-jjiglennjjiconjj55750spsnoos-black.{1}?v=bbe4725d471820d041d6b0750ea18161",
+      "indexes": [
+        {
+          "index": "003",
+          "format": "jpg"
+        },
+        {
+          "index": "004",
+          "format": "jpg"
+        },
+        {
+          "index": "001",
+          "format": "jpg"
+        },
+        {
+          "index": "002",
+          "format": "jpg"
+        },
+        {
+          "index": "005",
+          "format": "jpg"
+        },
+        {
+          "index": "006",
+          "format": "jpg"
+        },
+        {
+          "index": "007",
+          "format": "jpg"
+        },
+        {
+          "index": "008",
+          "format": "jpg"
+        }
+      ]
+    },
+    "subBrand": "JACK&JONES JEANS INTELLIGENCE",
+    "inStock": true,
+    "isNew": false,
+    "badges": [
+      "organic"
+    ],
+    "calloutAttributes": {
+      "callout": "",
+      "disclaimer": "",
+      "calloutBackgroundColor": "",
+      "calloutColor": "",
+      "hasAccordion": false,
+      "calloutIcon": "",
+      "enableClipboardIcon": false,
+      "clipboardCode": "",
+      "clipboardTitle": "",
+      "hideDiscountPrice": false,
+      "hideDiscountPercentage": false,
+      "discountPriceColor": "",
+      "discountPercentageColor": "",
+      "alternatePromotionName": ""
+    },
+    "callout": "",
+    "disclaimer": "",
+    "brand": "Jack & Jones",
+    "ean": "5714489931278",
+    "colourFamilyName": "Negra",
+    "sizeName": "32",
+    "lengthName": "\"32",
+    "isDigital": false,
+    "rank": 0,
+    "productRelations": [],
+    "id": "12162430_2103",
+    "name": "JJIGLENN JJICON JJ 557 50SPS Vaqueros de corte slim",
+    "url": "/es-es/product/12162430_2103/vaqueros-corte-slim-tiro-bajo",
+    "ediCategory": "Jeans",
+    "ediSubCategory": "Vaqueros",
+    "styleOptionCount": 1,
+    "styleColours": [
+      "#000000"
+    ],
+    "hasCompleteTheLook": false,
+    "isProductSet": false,
+    "productSetOptionsCount": 0,
+    "masterColourNames": [
+      "Black Denim"
+    ],
+    "colourName": "Black Denim",
+    "hasEcom": true,
+    "hasRetail": false,
+    "isPreorder": false,
+    "comingSoonProduct": false,
+    "onlineFrom": "0001-01-01T00:00:00Z",
+    "isInDeliverySet": false
+  },
+  {
+    "price": {
+      "percentage": 40,
+      "id": "eur_es",
+      "listPrice": {
+        "amount": 59.99,
+        "currency": "EUR"
+      },
+      "salesPrice": {
+        "amount": 35.99,
+        "currency": "EUR"
+      },
+      "vatAmount": {
+        "amount": 10.41,
+        "currency": "EUR"
+      },
+      "vatAmount2": {
+        "currency": "XXX"
+      },
+      "vatRate": 21,
+      "vatRate2": 0,
+      "from": "0001-01-01T00:00:00+00:00",
+      "to": "9999-12-31T23:59:00+00:00",
+      "discounts": [
+        {
+          "amount": 24,
+          "currency": "EUR",
+          "value": {
+            "amount": 24,
+            "currency": "EUR"
+          },
+          "promotionId": "",
+          "reference": "Markdown",
+          "promoCodes": [],
+          "badges": [
+            "markdown"
+          ],
+          "promotionName": ""
+        }
+      ],
+      "schedule": {
+        "from": "0001-01-01T00:00:00+00:00",
+        "to": "9999-12-31T23:59:59.9999999+00:00"
+      }
+    },
+    "frontImage": "https://images.jackjones.com/12269512/4651637/003/jackjones-jjimikejjfoxcb080-blue.jpg?v=5d6577643ff71a2e2f6bd633f4a1fc9d",
+    "backImage": "https://images.jackjones.com/12269512/4651637/004/jackjones-jjimikejjfoxcb080-blue.jpg?v=8ec6e0f6770e45a895929464a0492aa1",
+    "images": {
+      "urlTemplate": "https://images.jackjones.com/12269512/4651637/{0}/jackjones-jjimikejjfoxcb080-blue.{1}?v=5d6577643ff71a2e2f6bd633f4a1fc9d",
+      "indexes": [
+        {
+          "index": "003",
+          "format": "jpg"
+        },
+        {
+          "index": "004",
+          "format": "jpg"
+        },
+        {
+          "index": "001",
+          "format": "png"
+        },
+        {
+          "index": "002",
+          "format": "png"
+        },
+        {
+          "index": "005",
+          "format": "jpg"
+        },
+        {
+          "index": "006",
+          "format": "jpg"
+        },
+        {
+          "index": "007",
+          "format": "jpg"
+        },
+        {
+          "index": "008",
+          "format": "jpg"
+        }
+      ]
+    },
+    "subBrand": "JACK&JONES JEANS INTELLIGENCE",
+    "inStock": true,
+    "isNew": false,
+    "badges": [
+      "sale"
+    ],
+    "calloutAttributes": {
+      "callout": "",
+      "disclaimer": "",
+      "calloutBackgroundColor": "",
+      "calloutColor": "",
+      "hasAccordion": false,
+      "calloutIcon": "",
+      "enableClipboardIcon": false,
+      "clipboardCode": "",
+      "clipboardTitle": "",
+      "hideDiscountPrice": false,
+      "hideDiscountPercentage": false,
+      "discountPriceColor": "",
+      "discountPercentageColor": "",
+      "alternatePromotionName": ""
+    },
+    "callout": "",
+    "disclaimer": "",
+    "brand": "Jack & Jones",
+    "ean": "5715674892138",
+    "colourFamilyName": "Azul",
+    "sizeName": "34",
+    "lengthName": "\"32",
+    "isDigital": false,
+    "rank": 0,
+    "productRelations": [],
+    "id": "12269512_3561",
+    "name": "JJIMIKE JJFOX CB 080",
+    "url": "/es-es/product/12269512_3561/vaqueros-corte-tapered",
+    "ediCategory": "Jeans",
+    "ediSubCategory": "Vaqueros",
+    "styleOptionCount": 1,
+    "styleColours": [
+      "#1500ff"
+    ],
+    "hasCompleteTheLook": false,
+    "isProductSet": false,
+    "productSetOptionsCount": 0,
+    "masterColourNames": [
+      "Blue Denim"
+    ],
+    "colourName": "Blue Denim",
+    "hasEcom": true,
+    "hasRetail": false,
+    "isPreorder": false,
+    "comingSoonProduct": false,
+    "onlineFrom": "0001-01-01T00:00:00Z",
+    "isInDeliverySet": false
+  },
+  {
+    "price": {
+      "percentage": 0,
+      "id": "eur_es",
+      "salesPrice": {
+        "amount": 79.99,
+        "currency": "EUR"
+      },
+      "vatAmount": {
+        "amount": 13.88,
+        "currency": "EUR"
+      },
+      "vatAmount2": {
+        "currency": "XXX"
+      },
+      "vatRate": 21,
+      "vatRate2": 0,
+      "from": "0001-01-01T00:00:00+00:00",
+      "to": "9999-12-31T23:59:00+00:00",
+      "schedule": {
+        "from": "0001-01-01T00:00:00+00:00",
+        "to": "9999-12-31T23:59:59.9999999+00:00"
+      }
+    },
+    "frontImage": "https://images.jackjones.com/12249071/4383390/003/jackjones-jjiglennjjiconjj25950spsnoos-blue.jpg?v=a190751b95f4c21c3eb8f1d5ed6f7726",
+    "backImage": "https://images.jackjones.com/12249071/4383390/004/jackjones-jjiglennjjiconjj25950spsnoos-blue.jpg?v=8eda2cda345c7805b5b607d1cf65c5c5",
+    "images": {
+      "urlTemplate": "https://images.jackjones.com/12249071/4383390/{0}/jackjones-jjiglennjjiconjj25950spsnoos-blue.{1}?v=a190751b95f4c21c3eb8f1d5ed6f7726",
+      "indexes": [
+        {
+          "index": "003",
+          "format": "jpg"
+        },
+        {
+          "index": "004",
+          "format": "jpg"
+        },
+        {
+          "index": "001",
+          "format": "png"
+        },
+        {
+          "index": "002",
+          "format": "png"
+        },
+        {
+          "index": "005",
+          "format": "jpg"
+        },
+        {
+          "index": "006",
+          "format": "jpg"
+        },
+        {
+          "index": "007",
+          "format": "jpg"
+        },
+        {
+          "index": "008",
+          "format": "jpg"
+        }
+      ]
+    },
+    "subBrand": "JACK&JONES JEANS INTELLIGENCE",
+    "inStock": true,
+    "isNew": false,
+    "badges": [
+      "recycled"
+    ],
+    "calloutAttributes": {
+      "callout": "",
+      "disclaimer": "",
+      "calloutBackgroundColor": "",
+      "calloutColor": "",
+      "hasAccordion": false,
+      "calloutIcon": "",
+      "enableClipboardIcon": false,
+      "clipboardCode": "",
+      "clipboardTitle": "",
+      "hideDiscountPrice": false,
+      "hideDiscountPercentage": false,
+      "discountPriceColor": "",
+      "discountPercentageColor": "",
+      "alternatePromotionName": ""
+    },
+    "callout": "",
+    "disclaimer": "",
+    "brand": "Jack & Jones",
+    "ean": "5715433881908",
+    "colourFamilyName": "Azul",
+    "sizeName": "32",
+    "lengthName": "\"32",
+    "isDigital": false,
+    "rank": 0,
+    "productRelations": [],
+    "id": "12249071_3561",
+    "name": "JJIGLENN JJICON JJ 259 50SPS Vaqueros de corte slim",
+    "url": "/es-es/product/12249071_3561/vaqueros-corte-slim-tiro-bajo",
+    "ediCategory": "Jeans",
+    "ediSubCategory": "Vaqueros",
+    "styleOptionCount": 1,
+    "styleColours": [
+      "#1500ff"
+    ],
+    "hasCompleteTheLook": false,
+    "isProductSet": false,
+    "productSetOptionsCount": 0,
+    "masterColourNames": [
+      "Blue Denim"
+    ],
+    "colourName": "Blue Denim",
+    "hasEcom": true,
+    "hasRetail": false,
+    "isPreorder": false,
+    "comingSoonProduct": false,
+    "onlineFrom": "0001-01-01T00:00:00Z",
+    "isInDeliverySet": false
+  },
+  {
+    "price": {
+      "percentage": 0,
+      "id": "eur_es",
+      "salesPrice": {
+        "amount": 39.99,
+        "currency": "EUR"
+      },
+      "vatAmount": {
+        "amount": 6.94,
+        "currency": "EUR"
+      },
+      "vatAmount2": {
+        "currency": "XXX"
+      },
+      "vatRate": 21,
+      "vatRate2": 0,
+      "from": "0001-01-01T00:00:00+00:00",
+      "to": "9999-12-31T23:59:00+00:00",
+      "schedule": {
+        "from": "0001-01-01T00:00:00+00:00",
+        "to": "9999-12-31T23:59:59.9999999+00:00"
+      }
+    },
+    "frontImage": "https://images.jackjones.com/12269466/4651436/003/jackjones-jjiglennjjoriginalcb774noos-blue.jpg?v=714b39f021cb14360059291d613e0fa7",
+    "backImage": "https://images.jackjones.com/12269466/4651436/004/jackjones-jjiglennjjoriginalcb774noos-blue.jpg?v=896c8d99c0d33967c9dd06eea4faa74d",
+    "images": {
+      "urlTemplate": "https://images.jackjones.com/12269466/4651436/{0}/jackjones-jjiglennjjoriginalcb774noos-blue.{1}?v=714b39f021cb14360059291d613e0fa7",
+      "indexes": [
+        {
+          "index": "003",
+          "format": "jpg"
+        },
+        {
+          "index": "004",
+          "format": "jpg"
+        },
+        {
+          "index": "001",
+          "format": "png"
+        },
+        {
+          "index": "002",
+          "format": "png"
+        },
+        {
+          "index": "005",
+          "format": "jpg"
+        },
+        {
+          "index": "006",
+          "format": "jpg"
+        },
+        {
+          "index": "007",
+          "format": "jpg"
+        },
+        {
+          "index": "008",
+          "format": "jpg"
+        }
+      ]
+    },
+    "subBrand": "JACK&JONES JEANS INTELLIGENCE",
+    "inStock": true,
+    "isNew": false,
+    "badges": [],
+    "calloutAttributes": {
+      "callout": "",
+      "disclaimer": "",
+      "calloutBackgroundColor": "",
+      "calloutColor": "",
+      "hasAccordion": false,
+      "calloutIcon": "",
+      "enableClipboardIcon": false,
+      "clipboardCode": "",
+      "clipboardTitle": "",
+      "hideDiscountPrice": false,
+      "hideDiscountPercentage": false,
+      "discountPriceColor": "",
+      "discountPercentageColor": "",
+      "alternatePromotionName": ""
+    },
+    "callout": "",
+    "disclaimer": "",
+    "brand": "Jack & Jones",
+    "ean": "5715612444153",
+    "colourFamilyName": "Azul",
+    "sizeName": "32",
+    "lengthName": "\"32",
+    "isDigital": false,
+    "rank": 0,
+    "productRelations": [],
+    "id": "12269466_3561",
+    "name": "JJIGLENN JJORIGINAL CB 774 NOOS Vaqueros de corte slim",
+    "url": "/es-es/product/12269466_3561/vaqueros-corte-slim-tiro-bajo",
+    "ediCategory": "Jeans",
+    "ediSubCategory": "Vaqueros",
+    "styleOptionCount": 1,
+    "styleColours": [
+      "#1500ff"
+    ],
+    "hasCompleteTheLook": false,
+    "isProductSet": false,
+    "productSetOptionsCount": 0,
+    "masterColourNames": [
+      "Blue Denim"
+    ],
+    "colourName": "Blue Denim",
+    "hasEcom": true,
+    "hasRetail": false,
+    "isPreorder": false,
+    "comingSoonProduct": false,
+    "onlineFrom": "0001-01-01T00:00:00Z",
+    "isInDeliverySet": false
+  },
+  {
+    "price": {
+      "percentage": 0,
+      "id": "eur_es",
+      "salesPrice": {
+        "amount": 49.99,
+        "currency": "EUR"
+      },
+      "vatAmount": {
+        "amount": 8.68,
+        "currency": "EUR"
+      },
+      "vatAmount2": {
+        "currency": "XXX"
+      },
+      "vatRate": 21,
+      "vatRate2": 0,
+      "from": "0001-01-01T00:00:00+00:00",
+      "to": "9999-12-31T23:59:00+00:00",
+      "schedule": {
+        "from": "0001-01-01T00:00:00+00:00",
+        "to": "9999-12-31T23:59:59.9999999+00:00"
+      }
+    },
+    "frontImage": "https://images.jackjones.com/12249006/4383039/003/jackjones-jjiclarkjjoriginalam416noos-blue.jpg?v=099e17045ddba0c9ea380ad01a9f1ede",
+    "backImage": "https://images.jackjones.com/12249006/4383039/004/jackjones-jjiclarkjjoriginalam416noos-blue.jpg?v=9e6872378d36bff81c3f709fe64e99b4",
+    "images": {
+      "urlTemplate": "https://images.jackjones.com/12249006/4383039/{0}/jackjones-jjiclarkjjoriginalam416noos-blue.{1}?v=099e17045ddba0c9ea380ad01a9f1ede",
+      "indexes": [
+        {
+          "index": "003",
+          "format": "jpg"
+        },
+        {
+          "index": "004",
+          "format": "jpg"
+        },
+        {
+          "index": "001",
+          "format": "png"
+        },
+        {
+          "index": "002",
+          "format": "png"
+        },
+        {
+          "index": "005",
+          "format": "jpg"
+        },
+        {
+          "index": "006",
+          "format": "jpg"
+        },
+        {
+          "index": "007",
+          "format": "jpg"
+        },
+        {
+          "index": "008",
+          "format": "jpg"
+        }
+      ]
+    },
+    "subBrand": "JACK&JONES JEANS INTELLIGENCE",
+    "inStock": true,
+    "isNew": false,
+    "badges": [],
+    "calloutAttributes": {
+      "callout": "",
+      "disclaimer": "",
+      "calloutBackgroundColor": "",
+      "calloutColor": "",
+      "hasAccordion": false,
+      "calloutIcon": "",
+      "enableClipboardIcon": false,
+      "clipboardCode": "",
+      "clipboardTitle": "",
+      "hideDiscountPrice": false,
+      "hideDiscountPercentage": false,
+      "discountPriceColor": "",
+      "discountPercentageColor": "",
+      "alternatePromotionName": ""
+    },
+    "callout": "",
+    "disclaimer": "",
+    "brand": "Jack & Jones",
+    "ean": "5715506026342",
+    "colourFamilyName": "Azul",
+    "sizeName": "34",
+    "lengthName": "\"32",
+    "isDigital": false,
+    "rank": 0,
+    "productRelations": [],
+    "id": "12249006_3561",
+    "name": "JJICLARK JJORIGINAL AM 416 Vaqueros Corte regular",
+    "url": "/es-es/product/12249006_3561/vaqueros-corte-regular-talle-medio",
+    "ediCategory": "Jeans",
+    "ediSubCategory": "Vaqueros",
+    "styleOptionCount": 1,
+    "styleColours": [
+      "#1500ff"
+    ],
+    "hasCompleteTheLook": false,
+    "isProductSet": false,
+    "productSetOptionsCount": 0,
+    "masterColourNames": [
+      "Blue Denim"
+    ],
+    "colourName": "Blue Denim",
+    "hasEcom": true,
+    "hasRetail": false,
+    "isPreorder": false,
+    "comingSoonProduct": false,
+    "onlineFrom": "0001-01-01T00:00:00Z",
+    "isInDeliverySet": false
+  }
+]

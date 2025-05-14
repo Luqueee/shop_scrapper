@@ -1,0 +1,1604 @@
+{
+  "id": 184103977,
+  "type": "BundleBean",
+  "name": "Set jersey y falda rústico",
+  "nameEn": "Rustic sweater and skirt set",
+  "image": {
+    "timestamp": "1738931766310",
+    "url": "/2025/V/0/1/b/1921/376/806/BS/BS/1921376806",
+    "aux": ["1", "2", "4", "13"],
+    "type": ["1", "2", "3"],
+    "style": [],
+    "availableEstilismo": false
+  },
+  "isBuyable": true,
+  "onSpecial": false,
+  "backSoon": "0",
+  "unitsLot": 1,
+  "isTop": null,
+  "subFamily": null,
+  "productType": "Clothing",
+  "bundleColors": [
+    {
+      "id": 806,
+      "name": "Piedra",
+      "image": {
+        "timestamp": "1738931766310",
+        "url": "/2025/V/0/1/b/1921/376/806/BS/BS/1921376806",
+        "aux": ["1", "2", "4", "13"],
+        "type": ["1", "2", "3"],
+        "style": [],
+        "availableEstilismo": false
+      },
+      "colorName": null,
+      "relatedCategories": [],
+      "modelName": "986"
+    }
+  ],
+  "tags": [],
+  "attributes": [
+    {
+      "id": "7010000000000372001",
+      "name": "Conjunto",
+      "value": "Conjunto",
+      "type": "PRODUCT_TAG",
+      "identifier": null
+    },
+    {
+      "id": "7010000000001226524",
+      "name": "Crochet",
+      "value": "Crochet",
+      "type": "PRODUCT_TAG",
+      "identifier": null
+    },
+    {
+      "id": "7010000000001094530",
+      "name": "Cropped",
+      "value": "Cropped",
+      "type": "PRODUCT_TAG",
+      "identifier": null
+    },
+    {
+      "id": "7010000000000169509",
+      "name": "Jersey",
+      "value": "Jersey",
+      "type": "PRODUCT_TAG",
+      "identifier": null
+    },
+    {
+      "id": "7010000000000510044",
+      "name": "Jersey De Punto",
+      "value": "jersey de punto",
+      "type": "PRODUCT_TAG",
+      "identifier": null
+    },
+    {
+      "id": "7010000000000164606",
+      "name": "Manga larga",
+      "value": "Manga larga",
+      "type": "PRODUCT_TAG",
+      "identifier": null
+    },
+    {
+      "id": "7010000000001253025",
+      "name": "Romantico",
+      "value": "Romantico",
+      "type": "PRODUCT_TAG",
+      "identifier": null
+    },
+    {
+      "id": "7000000000000027532",
+      "name": "G-GRIS",
+      "value": "Gris",
+      "type": "XCOLFILTER",
+      "identifier": null
+    },
+    {
+      "id": "7010000000001783630",
+      "name": "Product Season V2025",
+      "value": "V2025",
+      "type": "XTYPEFILTER",
+      "identifier": null
+    },
+    {
+      "id": "7010000000000817014",
+      "name": "ProductType: Clothing",
+      "value": "Ropa",
+      "type": "XTYPEFILTER",
+      "identifier": null
+    }
+  ],
+  "relatedCategories": [
+    {
+      "id": 1010429555,
+      "identifier": "1_T_TOTAL_LOOK_HIDDEN",
+      "name": "Total look",
+      "urlCategory": true
+    }
+  ],
+  "attachments": [],
+  "bundleProductSummaries": [
+    {
+      "id": 172273855,
+      "type": "ProductBean",
+      "name": "Jersey calados rústico cuello alto",
+      "nameEn": "Rustic high neck openwork sweater",
+      "image": null,
+      "isBuyable": true,
+      "onSpecial": false,
+      "backSoon": "0",
+      "unitsLot": 0,
+      "isTop": 1,
+      "sizeSystem": "10004",
+      "subFamily": "110",
+      "productType": "Clothing",
+      "bundleColors": [],
+      "tags": [],
+      "attributes": [
+        {
+          "id": "7010000000000954000",
+          "name": "BERSHKA",
+          "value": "",
+          "type": "XBRAND_MASTERS_ID",
+          "identifier": null
+        },
+        {
+          "id": "7010000000001800790",
+          "name": "COMMERCIAL_ATTRIBUTE_LEVEL_1",
+          "value": "",
+          "type": "XCOMMERCIALATTRIBUTE",
+          "identifier": null
+        },
+        {
+          "id": "7010000000001800791",
+          "name": "COMMERCIAL_ATTRIBUTE_LEVEL_2",
+          "value": "",
+          "type": "XCOMMERCIALATTRIBUTE",
+          "identifier": null
+        },
+        {
+          "id": "7010000000001800792",
+          "name": "COMMERCIAL_ATTRIBUTE_LEVEL_3",
+          "value": "",
+          "type": "XCOMMERCIALATTRIBUTE",
+          "identifier": null
+        },
+        {
+          "id": "7010000000000979000",
+          "name": "[comp_lvl_1]",
+          "value": "[comp_lvl_1]",
+          "type": "XCOMPRADOR",
+          "identifier": null
+        },
+        {
+          "id": "7010000000000979001",
+          "name": "[comp_lvl_2]",
+          "value": "[comp_lvl_2]",
+          "type": "XCOMPRADOR",
+          "identifier": null
+        },
+        {
+          "id": "7010000000001167027",
+          "name": "FORCE_CS",
+          "value": "",
+          "type": "XFLAG",
+          "identifier": null
+        },
+        {
+          "id": "7010000000000326001",
+          "name": "XMANUFACTURER",
+          "value": "XMANUFACTURER",
+          "type": "XMANUFACTURER",
+          "identifier": null
+        },
+        {
+          "id": "7010000000000329501",
+          "name": "XMAN_DATE",
+          "value": "XMAN_DATE",
+          "type": "XMAN_DATE",
+          "identifier": null
+        },
+        {
+          "id": "7010000000001380566",
+          "name": "COL-SRA-BLOQUE",
+          "value": "COL-SRA-BLOQUE",
+          "type": "XSECCIONES",
+          "identifier": null
+        },
+        {
+          "id": "7010000000001372031",
+          "name": "BERSHKA",
+          "value": "1",
+          "type": "XSECONDATTR",
+          "identifier": null
+        }
+      ],
+      "relatedCategories": [
+        {
+          "id": 1010774850,
+          "identifier": "1_T_PADRES_V2025_1_NOWEB_NOAPP",
+          "name": "PADRES",
+          "urlCategory": true
+        }
+      ],
+      "attachments": [],
+      "bundleProductSummaries": [],
+      "detail": {
+        "description": "",
+        "longDescription": "",
+        "reference": "01921376-V2025",
+        "displayReference": "1921/376",
+        "defaultImageType": null,
+        "composition": [
+          {
+            "part": "1",
+            "composition": [
+              {
+                "id": "7000000000000015749",
+                "name": "viscosa",
+                "description": "52",
+                "percentage": "52"
+              }
+            ]
+          },
+          {
+            "part": "1",
+            "composition": [
+              {
+                "id": "7000000000000015621",
+                "name": "poliéster",
+                "description": "28",
+                "percentage": "28"
+              }
+            ]
+          },
+          {
+            "part": "1",
+            "composition": [
+              {
+                "id": "7000000000000015545",
+                "name": "poliamida",
+                "description": "20",
+                "percentage": "20"
+              }
+            ]
+          }
+        ],
+        "compositionByZone": [],
+        "care": [
+          {
+            "id": "7000000000000016003",
+            "name": "7",
+            "description": "LAVAR A MAQUINA MAX. 30ºC. CENTRIFUGADO CORTO"
+          },
+          {
+            "id": "7000000000000016001",
+            "name": "14",
+            "description": "NO USAR LEJÍA / BLANQUEADOR"
+          },
+          {
+            "id": "7000000000000016004",
+            "name": "18",
+            "description": "PLANCHAR MAXIMO 110 º C "
+          },
+          {
+            "id": "7000000000000016002",
+            "name": "28",
+            "description": "NO LIMPIEZA EN SECO"
+          },
+          {
+            "id": "7000000000000016005",
+            "name": "35",
+            "description": "NO USAR SECADORA"
+          }
+        ],
+        "colors": [
+          {
+            "id": "806",
+            "name": "Piedra",
+            "modelHeigh": "178 cm",
+            "modelName": "986",
+            "modelSize": "S",
+            "image": {
+              "timestamp": "1737546330999",
+              "url": "/2025/V/0/1/p/1921/376/806/1921376806",
+              "aux": ["2", "3", "4", "13"],
+              "type": ["1", "2", "3"],
+              "style": [],
+              "availableEstilismo": false
+            },
+            "sizes": [
+              {
+                "sku": 172273857,
+                "name": "XS",
+                "description": null,
+                "partnumber": "0192137680601-V2025",
+                "isBuyable": true,
+                "backSoon": "0",
+                "mastersSizeId": "101",
+                "position": 2,
+                "price": "2599",
+                "oldPrice": null,
+                "sizeType": "regular",
+                "skuDimensions": [],
+                "visibilityValue": "SHOW",
+                "weight": "310.0",
+                "unit": "GRM",
+                "country": "MAINLAND CHINA"
+              },
+              {
+                "sku": 172273856,
+                "name": "S",
+                "description": null,
+                "partnumber": "0192137680602-V2025",
+                "isBuyable": true,
+                "backSoon": "0",
+                "mastersSizeId": "102",
+                "position": 3,
+                "price": "2599",
+                "oldPrice": null,
+                "sizeType": "regular",
+                "skuDimensions": [],
+                "visibilityValue": "SHOW",
+                "weight": "310.0",
+                "unit": "GRM",
+                "country": "MAINLAND CHINA"
+              },
+              {
+                "sku": 172273859,
+                "name": "M",
+                "description": null,
+                "partnumber": "0192137680603-V2025",
+                "isBuyable": true,
+                "backSoon": "0",
+                "mastersSizeId": "103",
+                "position": 4,
+                "price": "2599",
+                "oldPrice": null,
+                "sizeType": "regular",
+                "skuDimensions": [],
+                "visibilityValue": "SHOW",
+                "weight": "310.0",
+                "unit": "GRM",
+                "country": "MAINLAND CHINA"
+              },
+              {
+                "sku": 172273858,
+                "name": "L",
+                "description": null,
+                "partnumber": "0192137680604-V2025",
+                "isBuyable": true,
+                "backSoon": "0",
+                "mastersSizeId": "104",
+                "position": 5,
+                "price": "2599",
+                "oldPrice": null,
+                "sizeType": "regular",
+                "skuDimensions": [],
+                "visibilityValue": "HIDDEN",
+                "weight": "310.0",
+                "unit": "GRM",
+                "country": "MAINLAND CHINA"
+              }
+            ],
+            "isContinuity": false,
+            "joinLifeInfo": { "descJoinLife": "", "isJoinLife": false },
+            "compositionDetail": null,
+            "catentryId": 172274679,
+            "reference": "C01921376806-V2025",
+            "sustainability": {
+              "show": false,
+              "syntheticFiberPercentage": { "name": "" }
+            },
+            "traceability": {
+              "show": false,
+              "weaving": { "name": "Tejeduría", "country": [] },
+              "dyeingPrinting": {
+                "name": "Teñido y Estampación",
+                "country": []
+              },
+              "confection": { "name": "Confección", "country": [] },
+              "assembly": { "name": "Montaje", "country": [] },
+              "pricking": { "name": "Corte y cosido", "country": [] },
+              "finish": { "name": "Acabado", "country": [] }
+            },
+            "extraInfo": {
+              "fitSizeMessage": { "text": null, "additionalInfo": null }
+            },
+            "joinLifeLabelInfo": { "show": false, "areas": [] },
+            "colFilter": []
+          }
+        ],
+        "relatedProducts": [],
+        "xmediaDefaultSet": null,
+        "xmedia": [
+          {
+            "path": "/2025/V/0/1/p/1921/376/806",
+            "xmediaItems": [
+              {
+                "medias": [
+                  {
+                    "format": 1,
+                    "clazz": 1,
+                    "idMedia": "1921376806_2_13_",
+                    "extraInfo": {
+                      "originalName": "b1",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/97ea/9dc0/f4ae4532a838/cccfaf38675f/01921376806-b/01921376806-b.jpg?ts=1737473359607",
+                      "deliveryPath": "assets/public/97ea/9dc0/f4ae4532a838/cccfaf38675f/01921376806-b/01921376806-b.jpg?ts=1737473359607",
+                      "assetId": "97ea9dc0f4ae4532a838cccfaf38675f",
+                      "hash": [
+                        {
+                          "md5Hash": "37f5bc4a9754a911b0cc8c7fc4c42528",
+                          "size": "0"
+                        }
+                      ],
+                      "url": "assets/public/97ea/9dc0/f4ae4532a838/cccfaf38675f/01921376806-b/01921376806-b.jpg?ts=1737473359607&w=:width:"
+                    },
+                    "timestamp": 1737473411705
+                  },
+                  {
+                    "format": 1,
+                    "clazz": 1,
+                    "idMedia": "1921376806_2_4_",
+                    "extraInfo": {
+                      "originalName": "a4o",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/6983/2656/56ce4435a9da/368bb41c6305/01921376806-a4o/01921376806-a4o.jpg?ts=1737473359679",
+                      "deliveryPath": "assets/public/6983/2656/56ce4435a9da/368bb41c6305/01921376806-a4o/01921376806-a4o.jpg?ts=1737473359679",
+                      "assetId": "6983265656ce4435a9da368bb41c6305",
+                      "hash": [
+                        {
+                          "md5Hash": "833ac04e98cd73156d64b7d624a2e926",
+                          "size": "0"
+                        }
+                      ],
+                      "url": "assets/public/6983/2656/56ce4435a9da/368bb41c6305/01921376806-a4o/01921376806-a4o.jpg?ts=1737473359679&w=:width:"
+                    },
+                    "timestamp": 1737473420604
+                  },
+                  {
+                    "format": 1,
+                    "clazz": 2,
+                    "idMedia": "1921376806_3_1_",
+                    "extraInfo": {
+                      "originalName": "r1",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/f0b6/da96/ba3f44068ce5/21256f64ada4/01921376806-r/01921376806-r.jpg?ts=1737473402781",
+                      "deliveryPath": "assets/public/f0b6/da96/ba3f44068ce5/21256f64ada4/01921376806-r/01921376806-r.jpg?ts=1737473402781",
+                      "assetId": "f0b6da96ba3f44068ce521256f64ada4",
+                      "hash": [
+                        {
+                          "md5Hash": "9fdc220a606322de6636bdc426b3313f",
+                          "size": "0"
+                        }
+                      ],
+                      "url": "assets/public/f0b6/da96/ba3f44068ce5/21256f64ada4/01921376806-r/01921376806-r.jpg?ts=1737473402781&w=:width:"
+                    },
+                    "timestamp": 1737473429240
+                  },
+                  {
+                    "format": 1,
+                    "clazz": 1,
+                    "idMedia": "1921376806_2_3_",
+                    "extraInfo": {
+                      "originalName": "a3o",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/6e87/5869/f7634d3fad7a/827027123457/01921376806-a3o/01921376806-a3o.jpg?ts=1737473404068",
+                      "deliveryPath": "assets/public/6e87/5869/f7634d3fad7a/827027123457/01921376806-a3o/01921376806-a3o.jpg?ts=1737473404068",
+                      "assetId": "6e875869f7634d3fad7a827027123457",
+                      "hash": [
+                        {
+                          "md5Hash": "30b78f2052e7fb1d29552dbdc1827cdd",
+                          "size": "0"
+                        }
+                      ],
+                      "url": "assets/public/6e87/5869/f7634d3fad7a/827027123457/01921376806-a3o/01921376806-a3o.jpg?ts=1737473404068&w=:width:"
+                    },
+                    "timestamp": 1737473447944
+                  },
+                  {
+                    "format": 1,
+                    "clazz": 1,
+                    "idMedia": "1921376806_1_1_",
+                    "extraInfo": {
+                      "originalName": "p1",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/c17c/66bf/3300418abeef/db75df839245/01921376806-p/01921376806-p.jpg?ts=1737473405321",
+                      "deliveryPath": "assets/public/c17c/66bf/3300418abeef/db75df839245/01921376806-p/01921376806-p.jpg?ts=1737473405321",
+                      "assetId": "c17c66bf3300418abeefdb75df839245",
+                      "hash": [
+                        {
+                          "md5Hash": "1eb4b7441cae07f8b771eb251e6117db",
+                          "size": "0"
+                        }
+                      ],
+                      "url": "assets/public/c17c/66bf/3300418abeef/db75df839245/01921376806-p/01921376806-p.jpg?ts=1737473405321&w=:width:"
+                    },
+                    "timestamp": 1737473457946
+                  },
+                  {
+                    "format": 1,
+                    "clazz": 1,
+                    "idMedia": "1921376806_2_2_",
+                    "extraInfo": {
+                      "originalName": "a2d",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/2d3c/f241/bdbd4baebb8c/0834a4811140/01921376806-a2d/01921376806-a2d.jpg?ts=1737473406003",
+                      "deliveryPath": "assets/public/2d3c/f241/bdbd4baebb8c/0834a4811140/01921376806-a2d/01921376806-a2d.jpg?ts=1737473406003",
+                      "assetId": "2d3cf241bdbd4baebb8c0834a4811140",
+                      "hash": [
+                        {
+                          "md5Hash": "cd798429ad8e6e91a2aa152ce717f782",
+                          "size": "0"
+                        }
+                      ],
+                      "url": "assets/public/2d3c/f241/bdbd4baebb8c/0834a4811140/01921376806-a2d/01921376806-a2d.jpg?ts=1737473406003&w=:width:"
+                    },
+                    "timestamp": 1737473467254
+                  }
+                ],
+                "set": 0
+              },
+              {
+                "medias": [
+                  {
+                    "format": 1,
+                    "clazz": 1,
+                    "idMedia": "1921376806_2_13_",
+                    "extraInfo": {
+                      "originalName": "b",
+                      "isLargeAndSmallDifferentResourcesValidForBothViews": false,
+                      "deliveryPath": "assets/public/97ea/9dc0/f4ae4532a838/cccfaf38675f/01921376806-b/01921376806-b.jpg?ts=1737473359607",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/97ea/9dc0/f4ae4532a838/cccfaf38675f/01921376806-b/01921376806-b.jpg?ts=1737473359607",
+                      "assetId": "97ea9dc0f4ae4532a838cccfaf38675f",
+                      "url": "assets/public/97ea/9dc0/f4ae4532a838/cccfaf38675f/01921376806-b/01921376806-b.jpg?ts=1737473359607&w=:width:"
+                    },
+                    "timestamp": 1737473411705
+                  },
+                  {
+                    "format": 1,
+                    "clazz": 1,
+                    "idMedia": "1921376806_2_4_",
+                    "extraInfo": {
+                      "originalName": "a4o",
+                      "isLargeAndSmallDifferentResourcesValidForBothViews": false,
+                      "deliveryPath": "assets/public/6983/2656/56ce4435a9da/368bb41c6305/01921376806-a4o/01921376806-a4o.jpg?ts=1737473359679",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/6983/2656/56ce4435a9da/368bb41c6305/01921376806-a4o/01921376806-a4o.jpg?ts=1737473359679",
+                      "assetId": "6983265656ce4435a9da368bb41c6305",
+                      "url": "assets/public/6983/2656/56ce4435a9da/368bb41c6305/01921376806-a4o/01921376806-a4o.jpg?ts=1737473359679&w=:width:"
+                    },
+                    "timestamp": 1737473420604
+                  },
+                  {
+                    "format": 1,
+                    "clazz": 1,
+                    "idMedia": "1921376806_2_3_",
+                    "extraInfo": {
+                      "originalName": "a3o",
+                      "isLargeAndSmallDifferentResourcesValidForBothViews": false,
+                      "deliveryPath": "assets/public/6e87/5869/f7634d3fad7a/827027123457/01921376806-a3o/01921376806-a3o.jpg?ts=1737473404068",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/6e87/5869/f7634d3fad7a/827027123457/01921376806-a3o/01921376806-a3o.jpg?ts=1737473404068",
+                      "assetId": "6e875869f7634d3fad7a827027123457",
+                      "url": "assets/public/6e87/5869/f7634d3fad7a/827027123457/01921376806-a3o/01921376806-a3o.jpg?ts=1737473404068&w=:width:"
+                    },
+                    "timestamp": 1737473447944
+                  },
+                  {
+                    "format": 1,
+                    "clazz": 1,
+                    "idMedia": "1921376806_1_1_",
+                    "extraInfo": {
+                      "originalName": "p1",
+                      "isLargeAndSmallDifferentResourcesValidForBothViews": false,
+                      "deliveryPath": "assets/public/c17c/66bf/3300418abeef/db75df839245/01921376806-p/01921376806-p.jpg?ts=1737473405321",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/c17c/66bf/3300418abeef/db75df839245/01921376806-p/01921376806-p.jpg?ts=1737473405321",
+                      "assetId": "c17c66bf3300418abeefdb75df839245",
+                      "url": "assets/public/c17c/66bf/3300418abeef/db75df839245/01921376806-p/01921376806-p.jpg?ts=1737473405321&w=:width:"
+                    },
+                    "timestamp": 1737473457946
+                  },
+                  {
+                    "format": 1,
+                    "clazz": 1,
+                    "idMedia": "1921376806_2_2_",
+                    "extraInfo": {
+                      "originalName": "a2d",
+                      "isLargeAndSmallDifferentResourcesValidForBothViews": false,
+                      "deliveryPath": "assets/public/2d3c/f241/bdbd4baebb8c/0834a4811140/01921376806-a2d/01921376806-a2d.jpg?ts=1737473406003",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/2d3c/f241/bdbd4baebb8c/0834a4811140/01921376806-a2d/01921376806-a2d.jpg?ts=1737473406003",
+                      "assetId": "2d3cf241bdbd4baebb8c0834a4811140",
+                      "url": "assets/public/2d3c/f241/bdbd4baebb8c/0834a4811140/01921376806-a2d/01921376806-a2d.jpg?ts=1737473406003&w=:width:"
+                    },
+                    "timestamp": 1737473467254
+                  },
+                  {
+                    "format": 1,
+                    "clazz": 2,
+                    "idMedia": "1921376806_3_1_",
+                    "extraInfo": {
+                      "originalName": "r",
+                      "isLargeAndSmallDifferentResourcesValidForBothViews": false,
+                      "deliveryPath": "assets/public/f0b6/da96/ba3f44068ce5/21256f64ada4/01921376806-r/01921376806-r.jpg?ts=1737473402781",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/f0b6/da96/ba3f44068ce5/21256f64ada4/01921376806-r/01921376806-r.jpg?ts=1737473402781",
+                      "assetId": "f0b6da96ba3f44068ce521256f64ada4",
+                      "url": "assets/public/f0b6/da96/ba3f44068ce5/21256f64ada4/01921376806-r/01921376806-r.jpg?ts=1737473402781&w=:width:"
+                    },
+                    "timestamp": 1737473429240
+                  }
+                ],
+                "set": 26
+              },
+              {
+                "medias": [
+                  {
+                    "format": 1,
+                    "clazz": 1,
+                    "idMedia": "1921376806_2_13_",
+                    "extraInfo": {
+                      "originalName": "b",
+                      "isLargeAndSmallDifferentResourcesValidForBothViews": false,
+                      "deliveryPath": "assets/public/97ea/9dc0/f4ae4532a838/cccfaf38675f/01921376806-b/01921376806-b.jpg?ts=1737473359607",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/97ea/9dc0/f4ae4532a838/cccfaf38675f/01921376806-b/01921376806-b.jpg?ts=1737473359607",
+                      "assetId": "97ea9dc0f4ae4532a838cccfaf38675f",
+                      "url": "assets/public/97ea/9dc0/f4ae4532a838/cccfaf38675f/01921376806-b/01921376806-b.jpg?ts=1737473359607&w=:width:"
+                    },
+                    "timestamp": 1737473411705
+                  },
+                  {
+                    "format": 1,
+                    "clazz": 1,
+                    "idMedia": "1921376806_2_4_",
+                    "extraInfo": {
+                      "originalName": "a4o",
+                      "isLargeAndSmallDifferentResourcesValidForBothViews": false,
+                      "deliveryPath": "assets/public/6983/2656/56ce4435a9da/368bb41c6305/01921376806-a4o/01921376806-a4o.jpg?ts=1737473359679",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/6983/2656/56ce4435a9da/368bb41c6305/01921376806-a4o/01921376806-a4o.jpg?ts=1737473359679",
+                      "assetId": "6983265656ce4435a9da368bb41c6305",
+                      "url": "assets/public/6983/2656/56ce4435a9da/368bb41c6305/01921376806-a4o/01921376806-a4o.jpg?ts=1737473359679&w=:width:"
+                    },
+                    "timestamp": 1737473420604
+                  },
+                  {
+                    "format": 1,
+                    "clazz": 1,
+                    "idMedia": "1921376806_2_3_",
+                    "extraInfo": {
+                      "originalName": "a3o",
+                      "isLargeAndSmallDifferentResourcesValidForBothViews": false,
+                      "deliveryPath": "assets/public/6e87/5869/f7634d3fad7a/827027123457/01921376806-a3o/01921376806-a3o.jpg?ts=1737473404068",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/6e87/5869/f7634d3fad7a/827027123457/01921376806-a3o/01921376806-a3o.jpg?ts=1737473404068",
+                      "assetId": "6e875869f7634d3fad7a827027123457",
+                      "url": "assets/public/6e87/5869/f7634d3fad7a/827027123457/01921376806-a3o/01921376806-a3o.jpg?ts=1737473404068&w=:width:"
+                    },
+                    "timestamp": 1737473447944
+                  },
+                  {
+                    "format": 1,
+                    "clazz": 1,
+                    "idMedia": "1921376806_1_1_",
+                    "extraInfo": {
+                      "originalName": "p1",
+                      "isLargeAndSmallDifferentResourcesValidForBothViews": false,
+                      "deliveryPath": "assets/public/c17c/66bf/3300418abeef/db75df839245/01921376806-p/01921376806-p.jpg?ts=1737473405321",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/c17c/66bf/3300418abeef/db75df839245/01921376806-p/01921376806-p.jpg?ts=1737473405321",
+                      "assetId": "c17c66bf3300418abeefdb75df839245",
+                      "url": "assets/public/c17c/66bf/3300418abeef/db75df839245/01921376806-p/01921376806-p.jpg?ts=1737473405321&w=:width:"
+                    },
+                    "timestamp": 1737473457946
+                  },
+                  {
+                    "format": 1,
+                    "clazz": 1,
+                    "idMedia": "1921376806_2_2_",
+                    "extraInfo": {
+                      "originalName": "a2d",
+                      "isLargeAndSmallDifferentResourcesValidForBothViews": false,
+                      "deliveryPath": "assets/public/2d3c/f241/bdbd4baebb8c/0834a4811140/01921376806-a2d/01921376806-a2d.jpg?ts=1737473406003",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/2d3c/f241/bdbd4baebb8c/0834a4811140/01921376806-a2d/01921376806-a2d.jpg?ts=1737473406003",
+                      "assetId": "2d3cf241bdbd4baebb8c0834a4811140",
+                      "url": "assets/public/2d3c/f241/bdbd4baebb8c/0834a4811140/01921376806-a2d/01921376806-a2d.jpg?ts=1737473406003&w=:width:"
+                    },
+                    "timestamp": 1737473467254
+                  },
+                  {
+                    "format": 1,
+                    "clazz": 2,
+                    "idMedia": "1921376806_3_1_",
+                    "extraInfo": {
+                      "originalName": "r",
+                      "isLargeAndSmallDifferentResourcesValidForBothViews": false,
+                      "deliveryPath": "assets/public/f0b6/da96/ba3f44068ce5/21256f64ada4/01921376806-r/01921376806-r.jpg?ts=1737473402781",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/f0b6/da96/ba3f44068ce5/21256f64ada4/01921376806-r/01921376806-r.jpg?ts=1737473402781",
+                      "assetId": "f0b6da96ba3f44068ce521256f64ada4",
+                      "url": "assets/public/f0b6/da96/ba3f44068ce5/21256f64ada4/01921376806-r/01921376806-r.jpg?ts=1737473402781&w=:width:"
+                    },
+                    "timestamp": 1737473429240
+                  }
+                ],
+                "set": 13
+              }
+            ],
+            "colorCode": "806",
+            "xmediaLocations": [
+              {
+                "locations": [
+                  {
+                    "mediaLocations": [
+                      "1921376806_1_1_",
+                      "1921376806_2_2_",
+                      "1921376806_2_3_",
+                      "1921376806_2_4_",
+                      "1921376806_2_13_"
+                    ],
+                    "location": 0
+                  },
+                  {
+                    "mediaLocations": [
+                      "1921376806_2_2_",
+                      "1921376806_1_1_",
+                      "1921376806_2_3_",
+                      "1921376806_2_4_",
+                      "1921376806_2_13_"
+                    ],
+                    "location": 1
+                  },
+                  { "mediaLocations": ["1921376806_1_1_"], "location": 2 },
+                  { "mediaLocations": ["1921376806_3_1_"], "location": 3 },
+                  { "mediaLocations": ["1921376806_2_4_"], "location": 4 },
+                  { "mediaLocations": ["1921376806_2_4_"], "location": 5 },
+                  { "mediaLocations": ["1921376806_1_1_"], "location": 6 },
+                  { "mediaLocations": [], "location": 9 },
+                  { "mediaLocations": [], "location": 10 },
+                  { "mediaLocations": [], "location": 11 },
+                  { "mediaLocations": [], "location": 12 },
+                  { "mediaLocations": [], "location": 13 },
+                  { "mediaLocations": [], "location": 15 },
+                  { "mediaLocations": [], "location": 16 },
+                  { "mediaLocations": [], "location": 17 },
+                  { "mediaLocations": [], "location": 18 }
+                ],
+                "set": 0
+              },
+              {
+                "locations": [
+                  {
+                    "mediaLocations": [
+                      "1921376806_1_1_",
+                      "1921376806_2_2_",
+                      "1921376806_2_3_",
+                      "1921376806_2_4_",
+                      "1921376806_2_13_"
+                    ],
+                    "location": 0
+                  },
+                  {
+                    "mediaLocations": [
+                      "1921376806_1_1_",
+                      "1921376806_2_2_",
+                      "1921376806_2_3_",
+                      "1921376806_2_4_",
+                      "1921376806_2_13_"
+                    ],
+                    "location": 1
+                  },
+                  { "mediaLocations": ["1921376806_1_1_"], "location": 2 },
+                  { "mediaLocations": ["1921376806_3_1_"], "location": 3 },
+                  { "mediaLocations": ["1921376806_2_4_"], "location": 4 },
+                  { "mediaLocations": ["1921376806_2_4_"], "location": 5 },
+                  { "mediaLocations": ["1921376806_2_3_"], "location": 6 }
+                ],
+                "set": 26
+              },
+              {
+                "locations": [
+                  {
+                    "mediaLocations": [
+                      "1921376806_1_1_",
+                      "1921376806_2_2_",
+                      "1921376806_2_3_",
+                      "1921376806_2_4_",
+                      "1921376806_2_13_"
+                    ],
+                    "location": 0
+                  },
+                  {
+                    "mediaLocations": [
+                      "1921376806_2_2_",
+                      "1921376806_1_1_",
+                      "1921376806_2_3_",
+                      "1921376806_2_4_",
+                      "1921376806_2_13_"
+                    ],
+                    "location": 1
+                  },
+                  { "mediaLocations": ["1921376806_1_1_"], "location": 2 },
+                  { "mediaLocations": ["1921376806_3_1_"], "location": 3 },
+                  { "mediaLocations": ["1921376806_2_4_"], "location": 4 },
+                  { "mediaLocations": ["1921376806_2_4_"], "location": 5 },
+                  { "mediaLocations": ["1921376806_2_3_"], "location": 6 },
+                  { "mediaLocations": [], "location": 9 },
+                  { "mediaLocations": [], "location": 10 },
+                  { "mediaLocations": [], "location": 11 },
+                  { "mediaLocations": [], "location": 12 },
+                  { "mediaLocations": [], "location": 13 },
+                  { "mediaLocations": [], "location": 15 },
+                  { "mediaLocations": [], "location": 16 },
+                  { "mediaLocations": [], "location": 17 },
+                  { "mediaLocations": [], "location": 18 }
+                ],
+                "set": 13
+              }
+            ]
+          }
+        ],
+        "familyInfo": {
+          "familyId": 169,
+          "familyCode": 10,
+          "familyName": "Punto"
+        },
+        "subfamilyInfo": {
+          "subFamilyId": 758,
+          "subFamilyCode": 110,
+          "subFamilyName": "Punto"
+        },
+        "isJoinLife": false,
+        "compositionDetail": null
+      },
+      "field5": "806#1737546330999",
+      "sequence": 1,
+      "section": "1",
+      "family": "169",
+      "startDate": "",
+      "productUrl": "jersey-calados-rustico-cuello-alto-l01921376",
+      "gridElemType": "PRODUCT",
+      "availabilityDate": "2025-01-23 10:38:31.0",
+      "productUrlTranslations": []
+    },
+    {
+      "id": 172273813,
+      "type": "ProductBean",
+      "name": "Falda midi calados",
+      "nameEn": "Openwork midi skirt",
+      "image": null,
+      "isBuyable": true,
+      "onSpecial": false,
+      "backSoon": "0",
+      "unitsLot": 0,
+      "isTop": 0,
+      "sizeSystem": "10005",
+      "subFamily": "103",
+      "productType": "Clothing",
+      "bundleColors": [],
+      "tags": [],
+      "attributes": [
+        {
+          "id": "7010000000000954000",
+          "name": "BERSHKA",
+          "value": "",
+          "type": "XBRAND_MASTERS_ID",
+          "identifier": null
+        },
+        {
+          "id": "7010000000001800791",
+          "name": "COMMERCIAL_ATTRIBUTE_LEVEL_2",
+          "value": "",
+          "type": "XCOMMERCIALATTRIBUTE",
+          "identifier": null
+        },
+        {
+          "id": "7010000000001800792",
+          "name": "COMMERCIAL_ATTRIBUTE_LEVEL_3",
+          "value": "",
+          "type": "XCOMMERCIALATTRIBUTE",
+          "identifier": null
+        },
+        {
+          "id": "7010000000000979000",
+          "name": "[comp_lvl_1]",
+          "value": "[comp_lvl_1]",
+          "type": "XCOMPRADOR",
+          "identifier": null
+        },
+        {
+          "id": "7010000000000979001",
+          "name": "[comp_lvl_2]",
+          "value": "[comp_lvl_2]",
+          "type": "XCOMPRADOR",
+          "identifier": null
+        },
+        {
+          "id": "7010000000001167027",
+          "name": "FORCE_CS",
+          "value": "",
+          "type": "XFLAG",
+          "identifier": null
+        },
+        {
+          "id": "7010000000000326001",
+          "name": "XMANUFACTURER",
+          "value": "XMANUFACTURER",
+          "type": "XMANUFACTURER",
+          "identifier": null
+        },
+        {
+          "id": "7010000000000329501",
+          "name": "XMAN_DATE",
+          "value": "XMAN_DATE",
+          "type": "XMAN_DATE",
+          "identifier": null
+        },
+        {
+          "id": "7010000000001380566",
+          "name": "COL-SRA-BLOQUE",
+          "value": "COL-SRA-BLOQUE",
+          "type": "XSECCIONES",
+          "identifier": null
+        },
+        {
+          "id": "7010000000001372031",
+          "name": "BERSHKA",
+          "value": "1",
+          "type": "XSECONDATTR",
+          "identifier": null
+        }
+      ],
+      "relatedCategories": [
+        {
+          "id": 1010774850,
+          "identifier": "1_T_PADRES_V2025_1_NOWEB_NOAPP",
+          "name": "PADRES",
+          "urlCategory": true
+        }
+      ],
+      "attachments": [],
+      "bundleProductSummaries": [],
+      "detail": {
+        "description": "",
+        "longDescription": "",
+        "reference": "01035376-V2025",
+        "displayReference": "1035/376",
+        "defaultImageType": null,
+        "composition": [
+          {
+            "part": "1",
+            "composition": [
+              {
+                "id": "7000000000000015749",
+                "name": "viscosa",
+                "description": "52",
+                "percentage": "52"
+              }
+            ]
+          },
+          {
+            "part": "1",
+            "composition": [
+              {
+                "id": "7000000000000015621",
+                "name": "poliéster",
+                "description": "28",
+                "percentage": "28"
+              }
+            ]
+          },
+          {
+            "part": "1",
+            "composition": [
+              {
+                "id": "7000000000000015545",
+                "name": "poliamida",
+                "description": "20",
+                "percentage": "20"
+              }
+            ]
+          }
+        ],
+        "compositionByZone": [],
+        "care": [
+          {
+            "id": "7000000000000016003",
+            "name": "7",
+            "description": "LAVAR A MAQUINA MAX. 30ºC. CENTRIFUGADO CORTO"
+          },
+          {
+            "id": "7000000000000016001",
+            "name": "14",
+            "description": "NO USAR LEJÍA / BLANQUEADOR"
+          },
+          {
+            "id": "7000000000000016004",
+            "name": "18",
+            "description": "PLANCHAR MAXIMO 110 º C "
+          },
+          {
+            "id": "7000000000000016002",
+            "name": "28",
+            "description": "NO LIMPIEZA EN SECO"
+          },
+          {
+            "id": "7000000000000016005",
+            "name": "35",
+            "description": "NO USAR SECADORA"
+          }
+        ],
+        "colors": [
+          {
+            "id": "806",
+            "name": "Piedra",
+            "modelHeigh": "178 cm",
+            "modelName": "986",
+            "modelSize": "S",
+            "image": {
+              "timestamp": "1737546333932",
+              "url": "/2025/V/0/1/p/1035/376/806/1035376806",
+              "aux": ["2", "3", "4", "13"],
+              "type": ["1", "2", "3"],
+              "style": [],
+              "availableEstilismo": false
+            },
+            "sizes": [
+              {
+                "sku": 172273815,
+                "name": "XS",
+                "description": null,
+                "partnumber": "0103537680601-V2025",
+                "isBuyable": true,
+                "backSoon": "0",
+                "mastersSizeId": "101",
+                "position": 2,
+                "price": "2999",
+                "oldPrice": null,
+                "sizeType": "regular",
+                "skuDimensions": [],
+                "visibilityValue": "SHOW",
+                "weight": "352.0",
+                "unit": "GRM",
+                "country": "MAINLAND CHINA"
+              },
+              {
+                "sku": 172273814,
+                "name": "S",
+                "description": null,
+                "partnumber": "0103537680602-V2025",
+                "isBuyable": true,
+                "backSoon": "0",
+                "mastersSizeId": "102",
+                "position": 3,
+                "price": "2999",
+                "oldPrice": null,
+                "sizeType": "regular",
+                "skuDimensions": [],
+                "visibilityValue": "SHOW",
+                "weight": "352.0",
+                "unit": "GRM",
+                "country": "MAINLAND CHINA"
+              },
+              {
+                "sku": 172273817,
+                "name": "M",
+                "description": null,
+                "partnumber": "0103537680603-V2025",
+                "isBuyable": true,
+                "backSoon": "0",
+                "mastersSizeId": "103",
+                "position": 4,
+                "price": "2999",
+                "oldPrice": null,
+                "sizeType": "regular",
+                "skuDimensions": [],
+                "visibilityValue": "SHOW",
+                "weight": "352.0",
+                "unit": "GRM",
+                "country": "MAINLAND CHINA"
+              },
+              {
+                "sku": 172273816,
+                "name": "L",
+                "description": null,
+                "partnumber": "0103537680604-V2025",
+                "isBuyable": true,
+                "backSoon": "0",
+                "mastersSizeId": "104",
+                "position": 5,
+                "price": "2999",
+                "oldPrice": null,
+                "sizeType": "regular",
+                "skuDimensions": [],
+                "visibilityValue": "SHOW",
+                "weight": "352.0",
+                "unit": "GRM",
+                "country": "MAINLAND CHINA"
+              }
+            ],
+            "isContinuity": false,
+            "joinLifeInfo": { "descJoinLife": "", "isJoinLife": false },
+            "compositionDetail": null,
+            "catentryId": 172274670,
+            "reference": "C01035376806-V2025",
+            "sustainability": {
+              "show": false,
+              "syntheticFiberPercentage": { "name": "" }
+            },
+            "traceability": {
+              "show": false,
+              "weaving": { "name": "Tejeduría", "country": [] },
+              "dyeingPrinting": {
+                "name": "Teñido y Estampación",
+                "country": []
+              },
+              "confection": { "name": "Confección", "country": [] },
+              "assembly": { "name": "Montaje", "country": [] },
+              "pricking": { "name": "Corte y cosido", "country": [] },
+              "finish": { "name": "Acabado", "country": [] }
+            },
+            "extraInfo": {
+              "fitSizeMessage": { "text": null, "additionalInfo": null }
+            },
+            "joinLifeLabelInfo": { "show": false, "areas": [] },
+            "colFilter": []
+          }
+        ],
+        "relatedProducts": [],
+        "xmediaDefaultSet": null,
+        "xmedia": [
+          {
+            "path": "/2025/V/0/1/p/1035/376/806",
+            "xmediaItems": [
+              {
+                "medias": [
+                  {
+                    "format": 1,
+                    "clazz": 1,
+                    "idMedia": "1035376806_2_4_",
+                    "extraInfo": {
+                      "originalName": "a4o",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/c564/cdf8/df804e8d8672/02adcc7ef553/01035376806-a4o/01035376806-a4o.jpg?ts=1737473464851",
+                      "deliveryPath": "assets/public/c564/cdf8/df804e8d8672/02adcc7ef553/01035376806-a4o/01035376806-a4o.jpg?ts=1737473464851",
+                      "assetId": "c564cdf8df804e8d867202adcc7ef553",
+                      "hash": [
+                        {
+                          "md5Hash": "6824b4dde9fe1a59e37bb7b82b8a1cfd",
+                          "size": "0"
+                        }
+                      ],
+                      "url": "assets/public/c564/cdf8/df804e8d8672/02adcc7ef553/01035376806-a4o/01035376806-a4o.jpg?ts=1737473464851&w=:width:"
+                    },
+                    "timestamp": 1737473681827
+                  },
+                  {
+                    "format": 1,
+                    "clazz": 1,
+                    "idMedia": "1035376806_2_13_",
+                    "extraInfo": {
+                      "originalName": "b1",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/30f9/dbd2/53e647379a8d/6c89412e066f/01035376806-b/01035376806-b.jpg?ts=1737473465464",
+                      "deliveryPath": "assets/public/30f9/dbd2/53e647379a8d/6c89412e066f/01035376806-b/01035376806-b.jpg?ts=1737473465464",
+                      "assetId": "30f9dbd253e647379a8d6c89412e066f",
+                      "hash": [
+                        {
+                          "md5Hash": "7a0f61680e5b03b364392e8d7189c6f4",
+                          "size": "0"
+                        }
+                      ],
+                      "url": "assets/public/30f9/dbd2/53e647379a8d/6c89412e066f/01035376806-b/01035376806-b.jpg?ts=1737473465464&w=:width:"
+                    },
+                    "timestamp": 1737473689970
+                  },
+                  {
+                    "format": 1,
+                    "clazz": 2,
+                    "idMedia": "1035376806_3_1_",
+                    "extraInfo": {
+                      "originalName": "r1",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/b08c/969a/93fa415aa0d1/8f5aa77ca50a/01035376806-r/01035376806-r.jpg?ts=1737473521260",
+                      "deliveryPath": "assets/public/b08c/969a/93fa415aa0d1/8f5aa77ca50a/01035376806-r/01035376806-r.jpg?ts=1737473521260",
+                      "assetId": "b08c969a93fa415aa0d18f5aa77ca50a",
+                      "hash": [
+                        {
+                          "md5Hash": "9fdc220a606322de6636bdc426b3313f",
+                          "size": "0"
+                        }
+                      ],
+                      "url": "assets/public/b08c/969a/93fa415aa0d1/8f5aa77ca50a/01035376806-r/01035376806-r.jpg?ts=1737473521260&w=:width:"
+                    },
+                    "timestamp": 1737473697271
+                  },
+                  {
+                    "format": 1,
+                    "clazz": 1,
+                    "idMedia": "1035376806_1_1_",
+                    "extraInfo": {
+                      "originalName": "p1",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/f4df/ac4a/05fa4911b7d3/84b877c94b8d/01035376806-p/01035376806-p.jpg?ts=1737473522031",
+                      "deliveryPath": "assets/public/f4df/ac4a/05fa4911b7d3/84b877c94b8d/01035376806-p/01035376806-p.jpg?ts=1737473522031",
+                      "assetId": "f4dfac4a05fa4911b7d384b877c94b8d",
+                      "hash": [
+                        {
+                          "md5Hash": "30b78f2052e7fb1d29552dbdc1827cdd",
+                          "size": "0"
+                        }
+                      ],
+                      "url": "assets/public/f4df/ac4a/05fa4911b7d3/84b877c94b8d/01035376806-p/01035376806-p.jpg?ts=1737473522031&w=:width:"
+                    },
+                    "timestamp": 1737473767851
+                  },
+                  {
+                    "format": 1,
+                    "clazz": 1,
+                    "idMedia": "1035376806_2_3_",
+                    "extraInfo": {
+                      "originalName": "a3o",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/d5aa/8e9a/98dc437bb479/e9c8294ce47c/01035376806-a3o/01035376806-a3o.jpg?ts=1737473522469",
+                      "deliveryPath": "assets/public/d5aa/8e9a/98dc437bb479/e9c8294ce47c/01035376806-a3o/01035376806-a3o.jpg?ts=1737473522469",
+                      "assetId": "d5aa8e9a98dc437bb479e9c8294ce47c",
+                      "hash": [
+                        {
+                          "md5Hash": "dd15f9763dd6ffdd6cff49af384f9097",
+                          "size": "0"
+                        }
+                      ],
+                      "url": "assets/public/d5aa/8e9a/98dc437bb479/e9c8294ce47c/01035376806-a3o/01035376806-a3o.jpg?ts=1737473522469&w=:width:"
+                    },
+                    "timestamp": 1737473775502
+                  },
+                  {
+                    "format": 1,
+                    "clazz": 1,
+                    "idMedia": "1035376806_2_2_",
+                    "extraInfo": {
+                      "originalName": "a2d",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/f7bd/85d7/063f4c22a4be/5a8aee39077b/01035376806-a2d/01035376806-a2d.jpg?ts=1737473522976",
+                      "deliveryPath": "assets/public/f7bd/85d7/063f4c22a4be/5a8aee39077b/01035376806-a2d/01035376806-a2d.jpg?ts=1737473522976",
+                      "assetId": "f7bd85d7063f4c22a4be5a8aee39077b",
+                      "hash": [
+                        {
+                          "md5Hash": "bdef0ba322a395f95fd281710607c710",
+                          "size": "0"
+                        }
+                      ],
+                      "url": "assets/public/f7bd/85d7/063f4c22a4be/5a8aee39077b/01035376806-a2d/01035376806-a2d.jpg?ts=1737473522976&w=:width:"
+                    },
+                    "timestamp": 1737473783135
+                  }
+                ],
+                "set": 0
+              },
+              {
+                "medias": [
+                  {
+                    "format": 1,
+                    "clazz": 1,
+                    "idMedia": "1035376806_2_4_",
+                    "extraInfo": {
+                      "originalName": "a4o",
+                      "isLargeAndSmallDifferentResourcesValidForBothViews": false,
+                      "deliveryPath": "assets/public/c564/cdf8/df804e8d8672/02adcc7ef553/01035376806-a4o/01035376806-a4o.jpg?ts=1737473464851",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/c564/cdf8/df804e8d8672/02adcc7ef553/01035376806-a4o/01035376806-a4o.jpg?ts=1737473464851",
+                      "assetId": "c564cdf8df804e8d867202adcc7ef553",
+                      "url": "assets/public/c564/cdf8/df804e8d8672/02adcc7ef553/01035376806-a4o/01035376806-a4o.jpg?ts=1737473464851&w=:width:"
+                    },
+                    "timestamp": 1737473681827
+                  },
+                  {
+                    "format": 1,
+                    "clazz": 1,
+                    "idMedia": "1035376806_2_13_",
+                    "extraInfo": {
+                      "originalName": "b",
+                      "isLargeAndSmallDifferentResourcesValidForBothViews": false,
+                      "deliveryPath": "assets/public/30f9/dbd2/53e647379a8d/6c89412e066f/01035376806-b/01035376806-b.jpg?ts=1737473465464",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/30f9/dbd2/53e647379a8d/6c89412e066f/01035376806-b/01035376806-b.jpg?ts=1737473465464",
+                      "assetId": "30f9dbd253e647379a8d6c89412e066f",
+                      "url": "assets/public/30f9/dbd2/53e647379a8d/6c89412e066f/01035376806-b/01035376806-b.jpg?ts=1737473465464&w=:width:"
+                    },
+                    "timestamp": 1737473689970
+                  },
+                  {
+                    "format": 1,
+                    "clazz": 1,
+                    "idMedia": "1035376806_1_1_",
+                    "extraInfo": {
+                      "originalName": "p1",
+                      "isLargeAndSmallDifferentResourcesValidForBothViews": false,
+                      "deliveryPath": "assets/public/f4df/ac4a/05fa4911b7d3/84b877c94b8d/01035376806-p/01035376806-p.jpg?ts=1737473522031",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/f4df/ac4a/05fa4911b7d3/84b877c94b8d/01035376806-p/01035376806-p.jpg?ts=1737473522031",
+                      "assetId": "f4dfac4a05fa4911b7d384b877c94b8d",
+                      "url": "assets/public/f4df/ac4a/05fa4911b7d3/84b877c94b8d/01035376806-p/01035376806-p.jpg?ts=1737473522031&w=:width:"
+                    },
+                    "timestamp": 1737473767851
+                  },
+                  {
+                    "format": 1,
+                    "clazz": 1,
+                    "idMedia": "1035376806_2_3_",
+                    "extraInfo": {
+                      "originalName": "a3o",
+                      "isLargeAndSmallDifferentResourcesValidForBothViews": false,
+                      "deliveryPath": "assets/public/d5aa/8e9a/98dc437bb479/e9c8294ce47c/01035376806-a3o/01035376806-a3o.jpg?ts=1737473522469",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/d5aa/8e9a/98dc437bb479/e9c8294ce47c/01035376806-a3o/01035376806-a3o.jpg?ts=1737473522469",
+                      "assetId": "d5aa8e9a98dc437bb479e9c8294ce47c",
+                      "url": "assets/public/d5aa/8e9a/98dc437bb479/e9c8294ce47c/01035376806-a3o/01035376806-a3o.jpg?ts=1737473522469&w=:width:"
+                    },
+                    "timestamp": 1737473775502
+                  },
+                  {
+                    "format": 1,
+                    "clazz": 1,
+                    "idMedia": "1035376806_2_2_",
+                    "extraInfo": {
+                      "originalName": "a2d",
+                      "isLargeAndSmallDifferentResourcesValidForBothViews": false,
+                      "deliveryPath": "assets/public/f7bd/85d7/063f4c22a4be/5a8aee39077b/01035376806-a2d/01035376806-a2d.jpg?ts=1737473522976",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/f7bd/85d7/063f4c22a4be/5a8aee39077b/01035376806-a2d/01035376806-a2d.jpg?ts=1737473522976",
+                      "assetId": "f7bd85d7063f4c22a4be5a8aee39077b",
+                      "url": "assets/public/f7bd/85d7/063f4c22a4be/5a8aee39077b/01035376806-a2d/01035376806-a2d.jpg?ts=1737473522976&w=:width:"
+                    },
+                    "timestamp": 1737473783135
+                  },
+                  {
+                    "format": 1,
+                    "clazz": 2,
+                    "idMedia": "1035376806_3_1_",
+                    "extraInfo": {
+                      "originalName": "r",
+                      "isLargeAndSmallDifferentResourcesValidForBothViews": false,
+                      "deliveryPath": "assets/public/b08c/969a/93fa415aa0d1/8f5aa77ca50a/01035376806-r/01035376806-r.jpg?ts=1737473521260",
+                      "deliveryUrl": "https://static.bershka.net/assets/public/b08c/969a/93fa415aa0d1/8f5aa77ca50a/01035376806-r/01035376806-r.jpg?ts=1737473521260",
+                      "assetId": "b08c969a93fa415aa0d18f5aa77ca50a",
+                      "url": "assets/public/b08c/969a/93fa415aa0d1/8f5aa77ca50a/01035376806-r/01035376806-r.jpg?ts=1737473521260&w=:width:"
+                    },
+                    "timestamp": 1737473697271
+                  }
+                ],
+                "set": 13
+              }
+            ],
+            "colorCode": "806",
+            "xmediaLocations": [
+              {
+                "locations": [
+                  {
+                    "mediaLocations": [
+                      "1035376806_1_1_",
+                      "1035376806_2_2_",
+                      "1035376806_2_3_",
+                      "1035376806_2_4_",
+                      "1035376806_2_13_"
+                    ],
+                    "location": 0
+                  },
+                  {
+                    "mediaLocations": [
+                      "1035376806_1_1_",
+                      "1035376806_2_2_",
+                      "1035376806_2_3_",
+                      "1035376806_2_4_",
+                      "1035376806_2_13_"
+                    ],
+                    "location": 1
+                  },
+                  { "mediaLocations": ["1035376806_2_4_"], "location": 4 },
+                  { "mediaLocations": ["1035376806_2_4_"], "location": 5 },
+                  { "mediaLocations": ["1035376806_3_1_"], "location": 3 },
+                  { "mediaLocations": ["1035376806_1_1_"], "location": 2 },
+                  { "mediaLocations": ["1035376806_1_1_"], "location": 6 }
+                ],
+                "set": 0
+              },
+              {
+                "locations": [
+                  {
+                    "mediaLocations": [
+                      "1035376806_1_1_",
+                      "1035376806_2_2_",
+                      "1035376806_2_3_",
+                      "1035376806_2_4_",
+                      "1035376806_2_13_"
+                    ],
+                    "location": 0
+                  },
+                  {
+                    "mediaLocations": [
+                      "1035376806_1_1_",
+                      "1035376806_2_2_",
+                      "1035376806_2_3_",
+                      "1035376806_2_4_",
+                      "1035376806_2_13_"
+                    ],
+                    "location": 1
+                  },
+                  { "mediaLocations": ["1035376806_1_1_"], "location": 2 },
+                  { "mediaLocations": ["1035376806_3_1_"], "location": 3 },
+                  { "mediaLocations": ["1035376806_2_4_"], "location": 4 },
+                  { "mediaLocations": ["1035376806_2_4_"], "location": 5 },
+                  { "mediaLocations": ["1035376806_2_3_"], "location": 6 }
+                ],
+                "set": 13
+              }
+            ]
+          }
+        ],
+        "familyInfo": {
+          "familyId": 163,
+          "familyCode": 3,
+          "familyName": "Faldas"
+        },
+        "subfamilyInfo": {
+          "subFamilyId": 707,
+          "subFamilyCode": 103,
+          "subFamilyName": "Faldas"
+        },
+        "isJoinLife": false,
+        "compositionDetail": null
+      },
+      "field5": "806#1737546333932",
+      "sequence": 2,
+      "section": "1",
+      "family": "163",
+      "startDate": "",
+      "productUrl": "falda-midi-calados-l01035376",
+      "gridElemType": "PRODUCT",
+      "availabilityDate": "2025-01-23 10:38:31.0",
+      "productUrlTranslations": []
+    }
+  ],
+  "detail": {
+    "description": "",
+    "longDescription": "",
+    "reference": "01921376806BSBS",
+    "displayReference": "1921/376",
+    "defaultImageType": null,
+    "composition": [],
+    "compositionByZone": [],
+    "care": [],
+    "colors": [],
+    "relatedProducts": [],
+    "xmediaDefaultSet": null,
+    "xmedia": [
+      {
+        "path": "/2025/V/0/1/b/1921/376/806/BS/BS",
+        "xmediaItems": [
+          {
+            "medias": [
+              {
+                "format": 1,
+                "clazz": 2,
+                "idMedia": "1921376806_3_1_",
+                "extraInfo": {
+                  "originalName": "r1",
+                  "deliveryUrl": "https://static.bershka.net/assets/public/b06a/9c36/e4c54861aee3/ed1ded12d45c/01921376806BSBS-r/01921376806BSBS-r.jpg?ts=1738931674328",
+                  "deliveryPath": "assets/public/b06a/9c36/e4c54861aee3/ed1ded12d45c/01921376806BSBS-r/01921376806BSBS-r.jpg?ts=1738931674328",
+                  "assetId": "b06a9c36e4c54861aee3ed1ded12d45c",
+                  "url": "assets/public/b06a/9c36/e4c54861aee3/ed1ded12d45c/01921376806BSBS-r/01921376806BSBS-r.jpg?ts=1738931674328&w=:width:"
+                },
+                "timestamp": 1738931691987
+              },
+              {
+                "format": 1,
+                "clazz": 1,
+                "idMedia": "1921376806_2_1_",
+                "extraInfo": {
+                  "originalName": "a1t",
+                  "deliveryUrl": "https://static.bershka.net/assets/public/e3eb/0b50/47a9438f87ab/c65d584c1b1c/01921376806BSBS-a1t/01921376806BSBS-a1t.jpg?ts=1738931675686",
+                  "deliveryPath": "assets/public/e3eb/0b50/47a9438f87ab/c65d584c1b1c/01921376806BSBS-a1t/01921376806BSBS-a1t.jpg?ts=1738931675686",
+                  "assetId": "e3eb0b5047a9438f87abc65d584c1b1c",
+                  "url": "assets/public/e3eb/0b50/47a9438f87ab/c65d584c1b1c/01921376806BSBS-a1t/01921376806BSBS-a1t.jpg?ts=1738931675686&w=:width:"
+                },
+                "timestamp": 1738931694809
+              },
+              {
+                "format": 1,
+                "clazz": 1,
+                "idMedia": "1921376806_2_13_",
+                "extraInfo": {
+                  "originalName": "b1",
+                  "deliveryUrl": "https://static.bershka.net/assets/public/5672/04e2/b2c1447fb2ed/4b92daf9b0e7/01921376806BSBS-b/01921376806BSBS-b.jpg?ts=1738931675635",
+                  "deliveryPath": "assets/public/5672/04e2/b2c1447fb2ed/4b92daf9b0e7/01921376806BSBS-b/01921376806BSBS-b.jpg?ts=1738931675635",
+                  "assetId": "567204e2b2c1447fb2ed4b92daf9b0e7",
+                  "url": "assets/public/5672/04e2/b2c1447fb2ed/4b92daf9b0e7/01921376806BSBS-b/01921376806BSBS-b.jpg?ts=1738931675635&w=:width:"
+                },
+                "timestamp": 1738931695988
+              },
+              {
+                "format": 1,
+                "clazz": 1,
+                "idMedia": "1921376806_2_4_",
+                "extraInfo": {
+                  "originalName": "a4o",
+                  "deliveryUrl": "https://static.bershka.net/assets/public/c143/66b6/91eb40e18c6f/e95f43f95b61/01921376806BSBS-a4o/01921376806BSBS-a4o.jpg?ts=1738931675751",
+                  "deliveryPath": "assets/public/c143/66b6/91eb40e18c6f/e95f43f95b61/01921376806BSBS-a4o/01921376806BSBS-a4o.jpg?ts=1738931675751",
+                  "assetId": "c14366b691eb40e18c6fe95f43f95b61",
+                  "url": "assets/public/c143/66b6/91eb40e18c6f/e95f43f95b61/01921376806BSBS-a4o/01921376806BSBS-a4o.jpg?ts=1738931675751&w=:width:"
+                },
+                "timestamp": 1738931696788
+              },
+              {
+                "format": 1,
+                "clazz": 1,
+                "idMedia": "1921376806_1_1_",
+                "extraInfo": {
+                  "originalName": "p1",
+                  "deliveryUrl": "https://static.bershka.net/assets/public/f03b/d738/28344825979e/23dfdd5141be/01921376806BSBS-p/01921376806BSBS-p.jpg?ts=1738931675755",
+                  "deliveryPath": "assets/public/f03b/d738/28344825979e/23dfdd5141be/01921376806BSBS-p/01921376806BSBS-p.jpg?ts=1738931675755",
+                  "assetId": "f03bd73828344825979e23dfdd5141be",
+                  "url": "assets/public/f03b/d738/28344825979e/23dfdd5141be/01921376806BSBS-p/01921376806BSBS-p.jpg?ts=1738931675755&w=:width:"
+                },
+                "timestamp": 1738931697531
+              },
+              {
+                "format": 1,
+                "clazz": 1,
+                "idMedia": "1921376806_2_2_",
+                "extraInfo": {
+                  "originalName": "a2d",
+                  "deliveryUrl": "https://static.bershka.net/assets/public/a398/4aab/171e4f23b557/c6456e49f56d/01921376806BSBS-a2d/01921376806BSBS-a2d.jpg?ts=1738931676918",
+                  "deliveryPath": "assets/public/a398/4aab/171e4f23b557/c6456e49f56d/01921376806BSBS-a2d/01921376806BSBS-a2d.jpg?ts=1738931676918",
+                  "assetId": "a3984aab171e4f23b557c6456e49f56d",
+                  "url": "assets/public/a398/4aab/171e4f23b557/c6456e49f56d/01921376806BSBS-a2d/01921376806BSBS-a2d.jpg?ts=1738931676918&w=:width:"
+                },
+                "timestamp": 1738931699431
+              }
+            ],
+            "set": 0
+          }
+        ],
+        "colorCode": "806",
+        "xmediaLocations": [
+          {
+            "locations": [
+              { "mediaLocations": ["1921376806_3_1_"], "location": 3 },
+              {
+                "mediaLocations": [
+                  "1921376806_1_1_",
+                  "1921376806_2_1_",
+                  "1921376806_2_2_",
+                  "1921376806_2_4_",
+                  "1921376806_2_13_"
+                ],
+                "location": 0
+              },
+              {
+                "mediaLocations": [
+                  "1921376806_1_1_",
+                  "1921376806_2_1_",
+                  "1921376806_2_2_",
+                  "1921376806_2_4_",
+                  "1921376806_2_13_"
+                ],
+                "location": 1
+              },
+              { "mediaLocations": ["1921376806_2_4_"], "location": 4 },
+              { "mediaLocations": ["1921376806_2_4_"], "location": 5 },
+              { "mediaLocations": ["1921376806_1_1_"], "location": 2 },
+              { "mediaLocations": ["1921376806_1_1_"], "location": 6 }
+            ],
+            "set": 0
+          }
+        ]
+      }
+    ],
+    "familyInfo": { "familyId": null, "familyCode": null, "familyName": null },
+    "subfamilyInfo": {
+      "subFamilyId": null,
+      "subFamilyCode": null,
+      "subFamilyName": null
+    },
+    "isJoinLife": false,
+    "compositionDetail": null
+  },
+  "field5": "806#1738931766310",
+  "section": null,
+  "family": null,
+  "startDate": "",
+  "isSales": null,
+  "keywords": "",
+  "mainColorid": "806",
+  "familyCode": null,
+  "subFamilyCode": null,
+  "productUrl": "set-jersey-y-falda-rustico-l01921376806BSBS",
+  "gridElemType": "BUNDLE",
+  "availabilityDate": "2025-02-07 13:00:49.0",
+  "visibilityValue": "SHOW",
+  "rueiData": {
+    "StoreLangRUEI": "<!--itxStoreLang='es'-->",
+    "StoreTypeRUEI": "<!--itxStoreType='VENTA'-->",
+    "OperationTypeRUEI": "<!--itxOperationType='rest-service-impl'-->",
+    "OperationRUEI": "<!--itxOperation='get-product-detail'-->",
+    "StoreIdRUEI": "<!--itxStoreId='ES'-->"
+  }
+}

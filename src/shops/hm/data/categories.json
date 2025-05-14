@@ -1,0 +1,486 @@
+[
+  {
+    "type": "hm/components/navigation/navigationcarousel",
+    "departmentName": "beauty",
+    "departmentAliasPath": "/es_es/beauty.html",
+    "departmentTargetPath": "/content/hmonline/es_es/beauty",
+    "links": [
+      {
+        "title": "-50% Base Maquillaje",
+        "preamble": "",
+        "imagePath": "/content/dam/global_campaigns/season_01/beauty/5001g/5001G-2x3-1.jpg",
+        "imageText": "",
+        "path": "/es_es/beauty/deals/5001g-50-off-base-makeup.html",
+        "aliasPath": "/es_es/beauty/deals/5001g-50-off-base-makeup.html",
+        "trackingLabel": "-50% Base Maquillaje",
+        "targetTemplate": "/apps/hm/templates/content/editorialcampaignpage",
+        "targetPath": "/content/hmonline/es_es/beauty/deals/5001g-50-off-base-makeup"
+      },
+      {
+        "title": "Base",
+        "preamble": "",
+        "imagePath": "/content/dam/TOOLBOX/PRE_SEASON/2025/s1-2025/beauty-toolbox/base-makeup/TCB1017-2x3.jpg",
+        "imageText": "",
+        "path": "/es_es/beauty/shop-by-product/makeup/face.html",
+        "aliasPath": "/es_es/beauty/shop-by-product/maquillaje/face.html",
+        "trackingLabel": "Base",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/beauty/shop-by-product/makeup/face"
+      },
+      {
+        "title": "Pelo",
+        "preamble": "",
+        "imagePath": "/content/dam/TOOLBOX/PRE_SEASON/2025/s1-2025/beauty-toolbox/skincare-and-haircare/TCB1108-2x3.jpg",
+        "imageText": "",
+        "path": "/es_es/beauty/shop-by-product/hair-care/view-all.html",
+        "aliasPath": "/es_es/beauty/shop-by-product/cuidado-cabello/ver-todos.html",
+        "trackingLabel": "Pelo",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/beauty/shop-by-product/hair-care/view-all"
+      }
+    ]
+  },
+  {
+    "type": "hm/components/navigation/navigationcarousel",
+    "departmentName": "ladies",
+    "departmentAliasPath": "/es_es/mujer.html",
+    "departmentTargetPath": "/content/hmonline/es_es/ladies",
+    "links": [
+      {
+        "title": "Festivales",
+        "preamble": "",
+        "imagePath": "/content/dam/hm/global_campaigns/the_studio_all/april-2025/festival-edit/FNP-2052-2x3-1-Festival-wk18.jpg",
+        "imageText": "",
+        "path": "/es_es/ladies/seasonal-trending/festival.html",
+        "aliasPath": "/es_es/mujer/inspiracion/festival.html",
+        "trackingLabel": "RSEU_Festivals",
+        "targetTemplate": "/apps/hm/templates/content/editorialcampaignpage",
+        "targetPath": "/content/hmonline/es_es/ladies/seasonal-trending/festival"
+      },
+      {
+        "title": "Lino",
+        "preamble": "",
+        "imagePath": "/content/dam/global_campaigns/season_01/women/startpage-assets/wk18/Linen-CE-wk18-2x3.jpg",
+        "imageText": "",
+        "path": "/es_es/ladies/shop-by-product/linen.html",
+        "aliasPath": "/es_es/mujer/inspiracion/lino.html",
+        "trackingLabel": "RSEU_Linen",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/ladies/seasonal-trending/linen"
+      },
+      {
+        "title": "Eventos",
+        "preamble": "",
+        "imagePath": "/content/dam/global_campaigns/season_01/women/startpage-assets/wk18/WS21P-startpage-women-wk18-2x3.jpg",
+        "imageText": "",
+        "path": "/es_es/ladies/seasonal-trending/occasion.html",
+        "aliasPath": "/es_es/mujer/inspiracion/occasion.html",
+        "trackingLabel": "RSEU_Ladies_Occasion",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/ladies/seasonal-trending/occasion"
+      },
+      {
+        "title": "Lencería",
+        "preamble": "",
+        "imagePath": "/content/dam/global_campaigns/season_01/women/2nd-level-navigation-assets/wk17/Lingerie-NavCar-Wk17-19.jpg",
+        "imageText": "",
+        "path": "/es_es/ladies/shop-by-product/lingerie.html",
+        "aliasPath": "/es_es/mujer/compra-por-producto/lenceria.html",
+        "trackingLabel": "RSEU_Ladies_Lingerie",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/ladies/shop-by-product/lingerie"
+      }
+    ]
+  },
+  {
+    "type": "hm/components/navigation/navigationcarousel",
+    "departmentName": "kids",
+    "departmentAliasPath": "/es_es/ninos.html",
+    "departmentTargetPath": "/content/hmonline/es_es/kids",
+    "links": [
+      {
+        "title": "Looks veraniegos",
+        "preamble": "2-8a",
+        "imagePath": "/content/dam/global_campaigns/season_01/kids/4081b/4081B-2x3-summer.jpg",
+        "imageText": "",
+        "path": "/es_es/kids/seasonal-trending/summer.html",
+        "aliasPath": "/es_es/ninos/tendencia-de-temporada/verano.html",
+        "trackingLabel": "RSEU_Kids_NC_W17",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/kids/seasonal-trending/summer"
+      },
+      {
+        "title": "Looks veraniegos",
+        "preamble": "9-14a",
+        "imagePath": "/content/dam/global_campaigns/season_01/kids/4081c/4081C-2x3-summer.jpg",
+        "imageText": "",
+        "path": "/es_es/kids/seasonal-trending/summer-9-14y.html",
+        "aliasPath": "/es_es/ninos/tendencia-de-temporada/summer-9-14y.html",
+        "trackingLabel": "RSEU_Young_NC_W11",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/kids/seasonal-trending/summer-9-14y"
+      },
+      {
+        "title": "Tonos pastel",
+        "preamble": "0-2a",
+        "imagePath": "/content/dam/global_campaigns/season_01/kids/1-5-and-2nd-level-navigation-assets/w-17-kids/4081A-NavCar-wk17-18-1-5-level.jpg",
+        "imageText": "",
+        "path": "/es_es/baby/seasonal-trending/summer.html",
+        "aliasPath": "/es_es/bebe/tendencia-actual/summer.html",
+        "trackingLabel": "RSEU_Baby_NC_W11",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/baby/seasonal-trending/summer"
+      }
+    ]
+  },
+  {
+    "type": "hm/components/navigation/navigationcarousel",
+    "departmentName": "kids/girls",
+    "departmentAliasPath": "/es_es/ninos/nina.html",
+    "departmentTargetPath": "/content/hmonline/es_es/kids/girls/clothing",
+    "links": [
+      {
+        "title": "Vestidos​",
+        "preamble": "",
+        "imagePath": "/content/dam/global_campaigns/season_01/kids/1-5-and-2nd-level-navigation-assets/w-17/TCKNS-160-NavCar-wk17-26-2-level.jpg",
+        "imageText": "",
+        "path": "/es_es/kids/girls/clothing/dresses.html",
+        "aliasPath": "/es_es/ninos/nina/ropa/vestidos.html",
+        "trackingLabel": "KG_Dresses_W18",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/kids/girls/clothing/dresses"
+      },
+      {
+        "title": "Shorts​",
+        "preamble": "",
+        "imagePath": "/content/dam/global_campaigns/season_01/kids/1-5-and-2nd-level-navigation-assets/w-17/TCKNS-161-NavCar-wk17-26-2-level.jpg",
+        "imageText": "",
+        "path": "/es_es/kids/girls/clothing/shorts.html",
+        "aliasPath": "/es_es/ninos/nina/ropa/pantalones-cortos.html",
+        "trackingLabel": "KG_Shorts_W18",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/kids/girls/clothing/shorts"
+      },
+      {
+        "title": "Zapatos",
+        "preamble": "",
+        "imagePath": "/content/dam/global_campaigns/season_01/kids/1-5-and-2nd-level-navigation-assets/w-17/TCKNS-163-NavCar-wk17-26-2-level.jpg",
+        "imageText": "",
+        "path": "/es_es/kids/girls/shoes.html",
+        "aliasPath": "/es_es/ninos/nina/zapatos.html",
+        "trackingLabel": "Zapatos",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/kids/girls/shoes"
+      }
+    ]
+  },
+  {
+    "type": "hm/components/navigation/navigationcarousel",
+    "departmentName": "kids/boys",
+    "departmentAliasPath": "/es_es/ninos/nino.html",
+    "departmentTargetPath": "/content/hmonline/es_es/kids/boys/clothing",
+    "links": [
+      {
+        "title": "Camisetas y camisas​",
+        "preamble": "",
+        "imagePath": "/content/dam/global_campaigns/season_01/kids/1-5-and-2nd-level-navigation-assets/w-17/TCKNS-169-NavCar-wk17-26-2-level.jpg",
+        "imageText": "",
+        "path": "/es_es/kids/boys/clothing/t-shirts-shirts.html",
+        "aliasPath": "/es_es/ninos/nino/ropa/camisetas-camisas.html",
+        "trackingLabel": "Camisetas y camisas​",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/kids/boys/clothing/t-shirts-shirts"
+      },
+      {
+        "title": "Shorts",
+        "preamble": "",
+        "imagePath": "/content/dam/global_campaigns/season_01/kids/1-5-and-2nd-level-navigation-assets/w-17/TCKNS-168-NavCar-wk17-26-2-level.jpg",
+        "imageText": "",
+        "path": "/es_es/kids/boys/clothing/shorts.html",
+        "aliasPath": "/es_es/ninos/nino/ropa/pantalones-cortos.html",
+        "trackingLabel": "Shorts",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/kids/boys/clothing/shorts"
+      },
+      {
+        "title": "Zapatos",
+        "preamble": "",
+        "imagePath": "/content/dam/global_campaigns/season_01/kids/1-5-and-2nd-level-navigation-assets/w-17/TCKNS-171-NavCar-wk17-26-2-level.jpg",
+        "imageText": "",
+        "path": "/es_es/kids/boys/shoes.html",
+        "aliasPath": "/es_es/ninos/nino/zapatos.html",
+        "trackingLabel": "Zapatos",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/kids/boys/shoes"
+      }
+    ]
+  },
+  {
+    "type": "hm/components/navigation/navigationcarousel",
+    "departmentName": "kids/shop-by-product",
+    "departmentAliasPath": "/es_es/ninos/compra-por-producto.html",
+    "departmentTargetPath": "/content/hmonline/es_es/kids/shop-by-product/clothing",
+    "links": [
+      {
+        "title": "Camisetas y camisas​",
+        "preamble": "",
+        "imagePath": "/content/dam/global_campaigns/season_01/kids/1-5-and-2nd-level-navigation-assets/w-17/TCKNS-169-NavCar-wk17-26-2-level.jpg",
+        "imageText": "",
+        "path": "/es_es/kids/shop-by-product/clothing/tops-t-shirts.html",
+        "aliasPath": "/es_es/ninos/compra-por-producto/ropa/tops-camisetas.html",
+        "trackingLabel": "Camisetas y camisas​",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/kids/shop-by-product/clothing/tops-t-shirts"
+      },
+      {
+        "title": "Shorts​",
+        "preamble": "",
+        "imagePath": "/content/dam/global_campaigns/season_01/kids/1-5-and-2nd-level-navigation-assets/w-17/TCKNS-161-NavCar-wk17-26-2-level.jpg",
+        "imageText": "",
+        "path": "/es_es/kids/shop-by-product/clothing/shorts.html",
+        "aliasPath": "/es_es/ninos/compra-por-producto/ropa/pantalones-cortos.html",
+        "trackingLabel": "Shorts​",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/kids/shop-by-product/clothing/shorts"
+      },
+      {
+        "title": "Zapatos",
+        "preamble": "",
+        "imagePath": "/content/dam/global_campaigns/season_01/kids/1-5-and-2nd-level-navigation-assets/w-17/TCKNS-163-NavCar-wk17-26-2-level.jpg",
+        "imageText": "",
+        "path": "/es_es/kids/shop-by-product/shoes.html",
+        "aliasPath": "/es_es/ninos/compra-por-producto/calzado.html",
+        "trackingLabel": "Zapatos",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/kids/shop-by-product/shoes"
+      }
+    ]
+  },
+  {
+    "type": "hm/components/navigation/navigationcarousel",
+    "departmentName": "baby/girls",
+    "departmentAliasPath": "/es_es/bebe/nina.html",
+    "departmentTargetPath": "/content/hmonline/es_es/baby/girls/clothing",
+    "links": [
+      {
+        "title": "Vestidos",
+        "preamble": "",
+        "imagePath": "/content/dam/hm/TOOLBOX/PRE_SEASON/2025/april-2025/FNP-TCK1043-2x3.jpg",
+        "imageText": "",
+        "path": "/es_es/baby/girls/clothing/dresses.html",
+        "aliasPath": "/es_es/bebe/nina/ropa/vestidos.html",
+        "trackingLabel": "RSEU_BABY_SUMMER_Dresses",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/baby/girls/clothing/dresses"
+      },
+      {
+        "title": "Shorts​",
+        "preamble": "",
+        "imagePath": "/content/dam/TOOLBOX/PRE_SEASON/2025/april-2025/TCK1039-2x3.jpg",
+        "imageText": "",
+        "path": "/es_es/baby/girls/clothing/shorts.html",
+        "aliasPath": "/es_es/bebe/nina/ropa/pantalones-cortos.html",
+        "trackingLabel": "RSEU_BABY_SUMMER_Shorts",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/baby/girls/clothing/shorts"
+      },
+      {
+        "title": "Zapatos",
+        "preamble": "",
+        "imagePath": "/content/dam/TOOLBOX/PRE_SEASON/2025/april-2025/TCK1041-2x3.jpg",
+        "imageText": "",
+        "path": "/es_es/baby/girls/shoes.html",
+        "aliasPath": "/es_es/bebe/nina/zapatos.html",
+        "trackingLabel": "RSEU_BABY_SUMMER_Shoes",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/baby/girls/shoes"
+      }
+    ]
+  },
+  {
+    "type": "hm/components/navigation/navigationcarousel",
+    "departmentName": "baby/boys",
+    "departmentAliasPath": "/es_es/bebe/ninos.html",
+    "departmentTargetPath": "/content/hmonline/es_es/baby/boys/clothing",
+    "links": [
+      {
+        "title": "Conjuntos",
+        "preamble": "",
+        "imagePath": "/content/dam/regional-local-activities/seu/master-seu/2025-season-01/kids---baby/rseu-navcar-baby-sets-1285827001-w19.png",
+        "imageText": "",
+        "path": "/es_es/baby/boys/clothing/sets-outfits.html",
+        "aliasPath": "/es_es/bebe/ninos/ropa/conjuntos.html",
+        "trackingLabel": "RSEU_BABY_SUMMER_Sets",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/baby/boys/clothing/sets-outfits"
+      },
+      {
+        "title": "Tops y Camisetas",
+        "preamble": "",
+        "imagePath": "/content/dam/TOOLBOX/PRE_SEASON/2025/april-2025/TCK1037-2x3.jpg",
+        "imageText": "",
+        "path": "/es_es/baby/boys/clothing/t-shirts-shirts.html",
+        "aliasPath": "/es_es/bebe/ninos/ropa/camisetas-camisas.html",
+        "trackingLabel": "RSEU_BABY_SUMMER_Tshirts",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/baby/boys/clothing/t-shirts-shirts"
+      },
+      {
+        "title": "Bañadores",
+        "preamble": "",
+        "imagePath": "/content/dam/hm/TOOLBOX/PRE_SEASON/2025/april-2025/FNP-TCK1038-2x3.jpg",
+        "imageText": "",
+        "path": "/es_es/baby/boys/clothing/swimwear.html",
+        "aliasPath": "/es_es/bebe/ninos/ropa/ropa-bano.html",
+        "trackingLabel": "RSEU_BABY_SUMMER_Summer",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/baby/boys/clothing/swimwear"
+      }
+    ]
+  },
+  {
+    "type": "hm/components/navigation/navigationcarousel",
+    "departmentName": "baby/shop-by-product",
+    "departmentAliasPath": "/es_es/bebe/productos.html",
+    "departmentTargetPath": "/content/hmonline/es_es/baby/shop-by-product/clothing",
+    "links": [
+      {
+        "title": "Vestidos",
+        "preamble": "",
+        "imagePath": "/content/dam/TOOLBOX/PRE_SEASON/2025/april-2025/TCK1043-2x3.jpg",
+        "imageText": "",
+        "path": "/es_es/baby/shop-by-product/clothing/dresses.html",
+        "aliasPath": "/es_es/bebe/productos/ropa/vestidos.html",
+        "trackingLabel": "RSEU_BABY_SUMMER_Dresses",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/baby/shop-by-product/clothing/dresses"
+      },
+      {
+        "title": "Conjuntos",
+        "preamble": "",
+        "imagePath": "/content/dam/regional-local-activities/seu/master-seu/2025-season-01/kids---baby/rseu-navcar-baby-sets-1285827001-w19.png",
+        "imageText": "",
+        "path": "/es_es/baby/shop-by-product/clothing/sets-outfits.html",
+        "aliasPath": "/es_es/bebe/productos/ropa/conjuntos.html",
+        "trackingLabel": "RSEU_BABY_SUMMER_Sets",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/baby/shop-by-product/clothing/sets-outfits"
+      },
+      {
+        "title": "Zapatos",
+        "preamble": "",
+        "imagePath": "/content/dam/TOOLBOX/PRE_SEASON/2025/april-2025/TCK1041-2x3.jpg",
+        "imageText": "",
+        "path": "/es_es/baby/shop-by-product/shoes.html",
+        "aliasPath": "/es_es/bebe/productos/zapatos.html",
+        "trackingLabel": "RSEU_BABY_SUMMER_Shoes",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/baby/shop-by-product/shoes"
+      }
+    ]
+  },
+  {
+    "type": "hm/components/navigation/navigationcarousel",
+    "departmentName": "home",
+    "departmentAliasPath": "/es_es/home.html",
+    "departmentTargetPath": "/content/hmonline/es_es/home",
+    "links": [
+      {
+        "title": "Niños",
+        "preamble": "",
+        "imagePath": "/content/dam/global_campaigns/season_01/home/start-page-assets/w-17/2nd-level/nursery_NavCar_wk17-28.jpg",
+        "imageText": "",
+        "path": "/es_es/home/shop-by-product/kids.html",
+        "aliasPath": "/es_es/home/compra-por-producto/nino-y-bebe.html",
+        "trackingLabel": "Niños",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/home/shop-by-product/kids"
+      },
+      {
+        "title": "Cocina",
+        "preamble": "",
+        "imagePath": "/content/dam/global_campaigns/season_01/home/start-page-assets/w-17/2nd-level/kitchen_NavCar_wk17-28.jpg",
+        "imageText": "",
+        "path": "/es_es/home/shop-by-room/kitchen.html",
+        "aliasPath": "/es_es/home/Catalogo-por-habitaculos/cocina.html",
+        "trackingLabel": "Cocina",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/home/shop-by-room/kitchen"
+      },
+      {
+        "title": "Baño",
+        "preamble": "",
+        "imagePath": "/content/dam/global_campaigns/season_01/home/start-page-assets/w-17/2nd-level/bathroom_NavCar_wk17-28.jpg",
+        "imageText": "",
+        "path": "/es_es/home/shop-by-room/bathroom.html",
+        "aliasPath": "/es_es/home/Catalogo-por-habitaculos/bano.html",
+        "trackingLabel": "Baño",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/home/shop-by-room/bathroom"
+      }
+    ]
+  },
+  {
+    "type": "hm/components/navigation/navigationcarousel",
+    "departmentName": "men",
+    "departmentAliasPath": "/es_es/hombre.html",
+    "departmentTargetPath": "/content/hmonline/es_es/men",
+    "links": [
+      {
+        "title": "Lino",
+        "preamble": "Ver todo",
+        "imagePath": "/content/dam/regional-local-activities/seu/master-seu/2025-season-01/men/rseu-men-linen-2x3-option3.png",
+        "imageText": "",
+        "path": "/es_es/men/seasonal-trending/linen.html",
+        "aliasPath": "/es_es/hombre/inspiracion/lino.html",
+        "trackingLabel": "Lino | Ver todo",
+        "targetTemplate": "/apps/hm/templates/content/editorialcampaignpage",
+        "targetPath": "/content/hmonline/es_es/men/seasonal-trending/linen"
+      },
+      {
+        "title": "Americanas y trajes",
+        "preamble": "Ver todo",
+        "imagePath": "/content/dam/regional-local-activities/seu/master-seu/2024-season-09/men/suits-2x3-black.png",
+        "imageText": "",
+        "path": "/es_es/men/shop-by-product/blazers-and-suits.html",
+        "aliasPath": "/es_es/hombre/compra-por-producto/americanas-y-trajes.html",
+        "trackingLabel": "Americanas y trajes | Ver todo",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/men/shop-by-product/blazers-and-suits"
+      },
+      {
+        "title": "Camisetas",
+        "preamble": "Ver todo",
+        "imagePath": "/content/dam/regional-local-activities/seu/master-seu/2025-season-01/men/rseu-men-tshirt-white-2x3.png",
+        "imageText": "",
+        "path": "/es_es/men/shop-by-product/t-shirts-and-tanks.html",
+        "aliasPath": "/es_es/hombre/compra-por-producto/camisetas-de-manga-corta-y-sin-mangas.html",
+        "trackingLabel": "Camisetas | Ver todo",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/men/shop-by-product/t-shirts-and-tanks"
+      },
+      {
+        "title": "Ropa de baño",
+        "preamble": "Ver todo",
+        "imagePath": "/content/dam/global_campaigns/season_01/men/start-page-assets/w11/2nd-level/MS21LH15A-Swimwear-NavCar-wk11.jpg",
+        "imageText": "",
+        "path": "/es_es/men/shop-by-product/swimwear.html",
+        "aliasPath": "/es_es/hombre/compra-por-producto/moda-de-bano.html",
+        "trackingLabel": "Ropa de baño | Ver todo",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/men/shop-by-product/swimwear"
+      },
+      {
+        "title": "Accessorios",
+        "preamble": "Ver todo",
+        "imagePath": "/content/dam/regional-local-activities/seu/master-seu/2025-season-01/men/rseu-men-sunglasses-2x3.png",
+        "imageText": "",
+        "path": "/es_es/men/shop-by-product/accessories.html",
+        "aliasPath": "/es_es/hombre/accesorios/ver-todos.html",
+        "trackingLabel": "Accessorios | Ver todo",
+        "targetTemplate": "/apps/hm/templates/content/subdepartment",
+        "targetPath": "/content/hmonline/es_es/men/accessories/view-all"
+      }
+    ]
+  }
+]

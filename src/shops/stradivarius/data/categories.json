@@ -1,0 +1,346 @@
+[
+  {
+    "subcategories": [
+      {
+        "id": 1020685624,
+        "name": "Chiringuito",
+        "subcategory": []
+      },
+      {
+        "id": 1020674015,
+        "name": "Latest trends",
+        "subcategory": []
+      },
+      {
+        "id": 1020622413,
+        "name": "TEST CHECK OUT",
+        "subcategory": []
+      },
+      {
+        "id": 1020611878,
+        "name": "Gestión de salas Stradivarius",
+        "subcategory": []
+      },
+      {
+        "id": 1020601797,
+        "name": "Día de la mujer 2024",
+        "subcategory": []
+      },
+      {
+        "id": 1020497069,
+        "name": "All Denim",
+        "subcategory": [
+          {
+            "id": 1020497071,
+            "name": "Compra por producto"
+          }
+        ]
+      },
+      {
+        "id": 1020047008,
+        "name": "Nuevo",
+        "subcategory": [
+          {
+            "id": 1020210508,
+            "name": "Ver todo"
+          },
+          {
+            "id": 1020210505,
+            "name": "Ropa"
+          },
+          {
+            "id": 1020354023,
+            "name": "STR Teen"
+          },
+          {
+            "id": 1020354021,
+            "name": "Sport"
+          },
+          {
+            "id": 1020210507,
+            "name": "Zapatos"
+          },
+          {
+            "id": 1020210506,
+            "name": "Accesorios"
+          }
+        ]
+      },
+      {
+        "id": 1020438443,
+        "name": "BLANK",
+        "subcategory": []
+      },
+      {
+        "id": 1020517062,
+        "name": "Efecto lino",
+        "subcategory": []
+      },
+      {
+        "id": 1020668512,
+        "name": "Jeans fit guide",
+        "subcategory": []
+      },
+      {
+        "id": 1020426812,
+        "name": "Bikinis y bañadores",
+        "subcategory": [
+          {
+            "id": 1020433925,
+            "name": "Ver todo"
+          },
+          {
+            "id": 1020433926,
+            "name": "Bikinis"
+          },
+          {
+            "id": 1020433927,
+            "name": "Bañadores"
+          },
+          {
+            "id": 1020602836,
+            "name": "Ropa y accesorios"
+          }
+        ]
+      },
+      {
+        "id": 1020560162,
+        "name": "BLANK",
+        "subcategory": []
+      },
+      {
+        "id": 1020047016,
+        "name": "Ropa",
+        "subcategory": [
+          {
+            "id": 1020132513,
+            "name": "Compra por producto"
+          }
+        ]
+      },
+      {
+        "id": 1020346503,
+        "name": "STR Teen",
+        "subcategory": [
+          {
+            "id": 1020428929,
+            "name": "Compra por producto"
+          }
+        ]
+      },
+      {
+        "id": 1020283506,
+        "name": "Casual Sport",
+        "subcategory": [
+          {
+            "id": 1020343512,
+            "name": "Compra por producto"
+          }
+        ]
+      },
+      {
+        "id": 1020206347,
+        "name": "Zapatos",
+        "subcategory": [
+          {
+            "id": 1020206344,
+            "name": "Compra por producto"
+          }
+        ]
+      },
+      {
+        "id": 1020490062,
+        "name": "Bolsos",
+        "subcategory": []
+      },
+      {
+        "id": 1020330378,
+        "name": "Accesorios",
+        "subcategory": [
+          {
+            "id": 1020330456,
+            "name": "Compra por producto"
+          }
+        ]
+      },
+      {
+        "id": 1020579248,
+        "name": "Tarjeta regalo",
+        "subcategory": []
+      },
+      {
+        "id": 1020594811,
+        "name": "Tarjeta regalo",
+        "subcategory": []
+      },
+      {
+        "id": 1020560665,
+        "name": "BLANK",
+        "subcategory": []
+      },
+      {
+        "id": 1020660518,
+        "name": "#STRADILOOKS🤳",
+        "subcategory": []
+      },
+      {
+        "id": 1020518565,
+        "name": "Casa Stradivarius",
+        "subcategory": []
+      },
+      {
+        "id": 1020282528,
+        "name": "Descubre",
+        "subcategory": [
+          {
+            "id": 1020283511,
+            "name": "Discover"
+          },
+          {
+            "id": 1020283512,
+            "name": "Discover"
+          }
+        ]
+      },
+      {
+        "id": 1020452436,
+        "name": "Just In",
+        "subcategory": []
+      },
+      {
+        "id": 1020396753,
+        "name": "Cesta",
+        "subcategory": []
+      },
+      {
+        "id": 1020363501,
+        "name": "Ticket Electronico",
+        "subcategory": []
+      },
+      {
+        "id": 1020430336,
+        "name": "Bizum",
+        "subcategory": []
+      },
+      {
+        "id": 1020072937,
+        "name": "LandingCOD",
+        "subcategory": []
+      },
+      {
+        "id": 1020434472,
+        "name": "TRA¡N",
+        "subcategory": []
+      },
+      {
+        "id": 1020132524,
+        "name": "Partnumbers",
+        "subcategory": []
+      },
+      {
+        "id": 1020455458,
+        "name": "Google Play & App Store",
+        "subcategory": []
+      },
+      {
+        "id": 1020455469,
+        "name": "Stradipeople",
+        "subcategory": []
+      },
+      {
+        "id": 1020310534,
+        "name": "QR MARKET APP",
+        "subcategory": []
+      },
+      {
+        "id": 1020480589,
+        "name": "Rebajas",
+        "subcategory": []
+      },
+      {
+        "id": 1020269549,
+        "name": "Rebajas",
+        "subcategory": []
+      },
+      {
+        "id": 1020404330,
+        "name": "BLACK FRIDAY",
+        "subcategory": []
+      },
+      {
+        "id": 1020398252,
+        "name": "BLACK FRIDAY",
+        "subcategory": []
+      },
+      {
+        "id": 1020367535,
+        "name": "Join Life",
+        "subcategory": []
+      },
+      {
+        "id": 1020514065,
+        "name": "Casa Stradivarius",
+        "subcategory": []
+      },
+      {
+        "id": 1020522143,
+        "name": "Casa Stradivarius",
+        "subcategory": []
+      },
+      {
+        "id": 1020513568,
+        "name": "Empresa",
+        "subcategory": []
+      },
+      {
+        "id": 1020599300,
+        "name": "Nuevo",
+        "subcategory": []
+      },
+      {
+        "id": 1020582247,
+        "name": "Fraud prevention",
+        "subcategory": []
+      },
+      {
+        "id": 1020581760,
+        "name": "Newsletter",
+        "subcategory": []
+      },
+      {
+        "id": 1020595335,
+        "name": "Prueba",
+        "subcategory": []
+      },
+      {
+        "id": 1020595336,
+        "name": "Pruebas",
+        "subcategory": []
+      },
+      {
+        "id": 1020661008,
+        "name": "Landing UGC",
+        "subcategory": []
+      },
+      {
+        "id": 1020531668,
+        "name": "DENIM HUB",
+        "subcategory": [
+          {
+            "id": 1020531687,
+            "name": "Jeans"
+          },
+          {
+            "id": 1020531686,
+            "name": "Faldas"
+          },
+          {
+            "id": 1020531682,
+            "name": "Camisas"
+          }
+        ]
+      }
+    ],
+    "name": "Nueva colección"
+  }
+]

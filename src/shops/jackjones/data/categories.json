@@ -1,0 +1,35 @@
+{
+  "woman": [
+    "https://www.jackjones.com/es-es/jjxx/novedades-mujer?type=json",
+    "https://www.jackjones.com/es-es/jjxx/ropa-mujer?type=json",
+    "https://www.jackjones.com/es-es/jjxx/moda-vaquera-mujer?type=json",
+    "https://www.jackjones.com/es-es/jjxx/accesorios-mujer?type=json",
+    "https://www.jackjones.com/es-es/jjxx/lookbook-mujer?type=json",
+    "https://www.jackjones.com/es-es/jjxx/ofertas-mujer?type=json",
+    "https://www.jackjones.com/es-es/content/abetter-world?type=json"
+  ],
+  "man": [
+    "https://www.jackjones.com/es-es/novedades?type=json",
+    "https://www.jackjones.com/es-es/ropa?type=json",
+    "https://www.jackjones.com/es-es?type=json",
+    "https://www.jackjones.com/es-es/moda-vaquera?type=json",
+    "https://www.jackjones.com/es-es/zapatos?type=json",
+    "https://www.jackjones.com/es-es/accesorios?type=json",
+    "https://www.jackjones.com/es-es/ofertas?type=json",
+    "https://www.jackjones.com/es-es/premium?type=json",
+    "https://www.jackjones.com/es-es/tallas-grandes?type=json",
+    "https://www.jackjones.com/es-es/content/abetter-world?type=json"
+  ],
+  "ninos": [
+    "https://www.jackjones.com/es-es/novedades?type=json",
+    "https://www.jackjones.com/es-es/ropa?type=json",
+    "https://www.jackjones.com/es-es/ninos?type=json",
+    "https://www.jackjones.com/es-es/moda-vaquera?type=json",
+    "https://www.jackjones.com/es-es/zapatos?type=json",
+    "https://www.jackjones.com/es-es/accesorios?type=json",
+    "https://www.jackjones.com/es-es/ofertas?type=json",
+    "https://www.jackjones.com/es-es/premium?type=json",
+    "https://www.jackjones.com/es-es/tallas-grandes?type=json",
+    "https://www.jackjones.com/es-es/content/abetter-world?type=json"
+  ]
+}
