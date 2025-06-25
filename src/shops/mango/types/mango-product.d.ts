@@ -26,6 +26,7 @@ export interface MangoProductResponse {
     assetsDomain: string;
     families: Family[];
     colors: Color[];
+    url: string;
 }
 
 export interface Color {

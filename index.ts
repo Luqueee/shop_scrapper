@@ -1,33 +1,34 @@
-import { SearchBershkaUseCase } from "./src/shops/bershka/search-bershka.use-case"
 import { Bershka } from "./src/shops/bershka/bershka"
-import mongoose, { Schema } from "mongoose";
-import { exit } from "process";
+import mongoose from "mongoose";
 import { PullAndBear } from "./src/shops/pull-and-bear/pull-and-bear";
 import { Stradivarius } from "./src/shops/stradivarius/stradivarius";
-import { writeFileSync } from "fs";
 import { Zara } from "./src/shops/zara/zara";
 import { Mango } from "./src/shops/mango/mango";
 import { Hm } from "./src/shops/hm/hm";
 import { JackJones } from "./src/shops/jackjones/jackjones";
 import { normalizeAllProducts } from "./src/normalize";
+import dotenv from "dotenv";
 
+dotenv.config();
 
+if (!process.env.MONGO_URL) {
+    console.error("MONGO_URL environment variable is not set");
+    process.exit(1);
+}
 
-
-
-const MONGO_URI = "mongodb+srv://luqueee2007:FLbY1QfvH7aaz5sO@cluster0.2dk8kke.mongodb.net/haul?retryWrites=true&w=majority";
+const MONGO_URI = process.env.MONGO_URL;
 
 async function main() {
 
-    // await Bershka()
-    // await PullAndBear()
-    // await Stradivarius()
-    // await Zara()
+    await Bershka()
+    await PullAndBear()
+    await Stradivarius()
+    await Zara()
     await Mango()
-    // await Hm()
-    // await JackJones()
+    await Hm()
+    await JackJones()
 
-    // await normalizeAllProducts()
+    await normalizeAllProducts()
 
     // exit(0)
 

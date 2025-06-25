@@ -8,7 +8,7 @@ const BASE_URL_SEARCH =
 	"https://2kv2lbqg6e-dsn.algolia.net/1/indexes/pro_SEARCH_ES/query?x-algolia-agent=Algolia%20for%20JavaScript%20(3.35.1)%3B%20Browser&x-algolia-application-id=2KV2LBQG6E&x-algolia-api-key=MGY4YzYzZWI2ZmRlYmYwOTM1ZGU2NGI3MjVjZjViMjgyMDIyYWM3NWEzZTM5ZjZiOWYwMzAyYThmNTkxMDUwMGF0dHJpYnV0ZXNUb0hpZ2hsaWdodD0lNUIlNUQmYXR0cmlidXRlc1RvU25pcHBldD0lNUIlNUQmZW5hYmxlUGVyc29uYWxpemF0aW9uPWZhbHNlJmVuYWJsZVJ1bGVzPXRydWUmZmFjZXRpbmdBZnRlckRpc3RpbmN0PXRydWUmZ2V0UmFua2luZ0luZm89dHJ1ZSZzbmlwcGV0RWxsaXBzaXNUZXh0PSVFMiU4MCVBNiZzdW1PckZpbHRlcnNTY29yZXM9dHJ1ZQ%3D%3D";
 
 const BASEU_URL_PRODUCTS =
-	" https://www.bershka.com/itxrest/3/catalog/store/44009500/40259530/productsArray?appId=1&languageId=-5&locale=es_ES";
+	"https://www.bershka.com/itxrest/3/catalog/store/44009500/40259530/productsArray?appId=1&languageId=-5&locale=es_ES";
 
 const BASE_URL_CATEGORY = "https://www.bershka.com/itxrest/3/catalog/store/44009500/40259530/category/:categoryId/product?showProducts=true&showNoStock=true&appId=2&languageId=-5&locale=es_ES"
 

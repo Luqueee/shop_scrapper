@@ -54,7 +54,7 @@ export class ProductEntity {
     async save() {
         const product = new ProductModel(this.product);
         await product.save().catch((err) => {
-            // console.error("Error saving product", err);
+            console.error("Error saving product", err);
             return
         });
     }

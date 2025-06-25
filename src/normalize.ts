@@ -1,6 +1,5 @@
 import { ProductModel } from "./db/product.db";
 
-let count = 0
 
 export async function normalizeAllProducts() {
     // const products = await ProductModel.find();
